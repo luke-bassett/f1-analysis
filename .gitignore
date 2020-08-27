@@ -1,2 +1,3 @@
-data/
+data/ergast_data/*
 .ipynb_checkpoints
+__pycache__/

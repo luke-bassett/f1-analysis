@@ -2,7 +2,7 @@ import os
 import urllib.request
 import zipfile
 
-def refresh(path, url='http://ergast.com/downloads/f1db_csv.zip'):
+def refresh(path='data/ergast_data', url='http://ergast.com/downloads/f1db_csv.zip'):
     """download latest ergast data and replace data in datadir"""  
     if not os.path.exists(path):
         os.makedirs(path)
