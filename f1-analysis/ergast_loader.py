@@ -3,9 +3,10 @@ import os
 import pandas as pd
 
 
-class ErgastLoader():
+class ErgastLoader:
     """Creates a data object to hold ergast data"""
-    def __init__(self, path , tables=None):
+
+    def __init__(self, path, tables=None):
         """Loads ergast data to dataframes.
 
         path (str):
@@ -17,8 +18,9 @@ class ErgastLoader():
         """
         self.path = path
         if not tables:
-            self.tables = [x.replace('.csv', '') for x in os.listdir(self.path)
-                           if '.csv' in x]
+            self.tables = [
+                x.replace(".csv", "") for x in os.listdir(self.path) if ".csv" in x
+            ]
         else:
             self.tables = tables
         self.data = {}
@@ -27,4 +29,4 @@ class ErgastLoader():
     def load_tables(self):
         """Loads each csv listed in tables as a dataframe in the data dict"""
         for table in self.tables:
-            self.data[table] = pd.read_csv(os.path.join(self.path, table + '.csv'))
+            self.data[table] = pd.read_csv(os.path.join(self.path, table + ".csv"))

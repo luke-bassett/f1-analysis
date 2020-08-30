@@ -1,0 +1,4 @@
+# Configured for use with black
+[flake8]
+select = C,E,F,W,B,B950
+extend-ignore = E501

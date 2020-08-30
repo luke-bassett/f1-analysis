@@ -1,4 +1,4 @@
-data/ergast_data/*
+*/data/ergast_data/*
 .ipynb_checkpoints
 .vscode/
 __pycache__/
