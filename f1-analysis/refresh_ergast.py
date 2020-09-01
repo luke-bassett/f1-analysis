@@ -1,3 +1,5 @@
+"""Download a new image of the ergast database"""
+
 import os
 import urllib.request
 import zipfile

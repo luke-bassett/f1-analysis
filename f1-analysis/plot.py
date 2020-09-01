@@ -1,3 +1,5 @@
+"""Functions for builing plots and plot settings"""
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
