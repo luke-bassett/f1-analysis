@@ -1,6 +1,6 @@
 """Fuctions for transforming and referencing"""
-import style
 
+import style
 
 def load_race_laps(ergast, raceId):
     """return dataframe from laps_times table for a race"""
