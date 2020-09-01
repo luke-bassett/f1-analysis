@@ -26,7 +26,7 @@ dashes_2020 = {
     "ocon": (3, 1),
     "gasly": (3, 1),
     "kvyat": (1, 0),
-    "sains": (1, 0),
+    "sainz": (1, 0),
     "norris": (3, 1),
     "leclerc": (3, 1),
     "vettel": (1, 0),
@@ -35,6 +35,7 @@ dashes_2020 = {
     "russell": (1, 0),
     "latifi": (3, 1),
     "kevin_magnussen": (3, 1),
+    "hulkenberg": (1, 0),
     # other
     "grosjean": (1, 0),
 }

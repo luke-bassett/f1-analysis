@@ -24,8 +24,9 @@ plt.rcParams['font.family'] = 'sans-serif'
 
 
 def delta_chart(
-    ergast, raceId, tgt_driver, driver_ids=None, driver_refs=None, driver_codes=None
+    ergast, race, tgt_driver, driver_ids=None, driver_refs=None, driver_codes=None
 ):
+    raceId = data_tools.get_race_id(ergast, race)
 
     delta_table = data_tools.make_delta_table(
         ergast,

@@ -148,3 +148,17 @@ def get_driverref_to_driverid_dict(ergast, driver_refs="all"):
 def driverid_to_driverref(driver_ids):
     d = get_driverid_to_driverref_dict(list(driver_ids))
     return [d[x] for x in driver_ids]
+
+
+def get_race_id(ergast, race):
+    if isinstance(race, int):
+        return race
+
+    races = ergast.data['races'].copy()
+
+    if isinstance(race, str):
+        races['text_id'] = races['year'].astype(str) + '_' + races['name'].str.replace(' ', '_').str.lower()
+        return races.loc[races['text_id']==race, 'raceId'].array[0]
+
+    elif isinstance(race, tuple):
+        return races.loc[(races['year']==race[0]) & (races['round']==race[1]), 'raceId'].array[0]
