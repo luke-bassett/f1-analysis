@@ -2,6 +2,7 @@
 
 import style
 
+
 def load_race_laps(ergast, raceId):
     """return dataframe from laps_times table for a race"""
     laps = ergast.data["lap_times"].copy()
