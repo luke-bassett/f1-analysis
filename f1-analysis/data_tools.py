@@ -43,6 +43,7 @@ def make_delta_table(
         tgt_driver = get_driverref_to_driverid_dict(ergast)[tgt_driver]
 
     laps = load_race_laps(ergast, raceId)
+
     laps = calc_total_milliseconds(laps)
 
     if driver_ids:
@@ -59,7 +60,9 @@ def make_delta_table(
     laps = laps[laps["lap"] <= laps.loc[laps["driverId"] == tgt_driver, "lap"].max()]
 
     # calculate delta from target driver each lap
+    # (adds "delta" column in milliseconds)
     laps = laps.groupby("lap").apply(tgt_driver_delta, tgt_driver)
+    laps["delta_seconds"] = laps["delta"] * 0.001
 
     laps["driverRef"] = laps["driverId"].map(
         get_driverid_to_driverref_dict(ergast, laps["driverId"].unique())
