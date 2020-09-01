@@ -6,21 +6,17 @@ import style
 
 # plot style settings
 sns.set_style("whitegrid")
-plt.rc('font', size=14)          # controls default text sizes
-plt.rc('axes', titlesize=14)     # fontsize of the axes title
-plt.rc('axes', labelsize=14)     # fontsize of the x and y labels
-plt.rc('xtick', labelsize=14)    # fontsize of the tick labels
-plt.rc('ytick', labelsize=14)    # fontsize of the tick labels
-plt.rc('legend', fontsize=14)    # legend fontsize
-plt.rc('figure', titlesize=14)   # fontsize of the figure title
-plt.rcParams['font.monospace'] = "consolas"
-plt.rcParams['font.sans-serif'] = ["arial"]
-plt.rcParams['font.serif'] = 'times new roman'
-plt.rcParams['font.family'] = 'sans-serif'
-
-
-
-
+plt.rc("font", size=14)  # controls default text sizes
+plt.rc("axes", titlesize=14)  # fontsize of the axes title
+plt.rc("axes", labelsize=14)  # fontsize of the x and y labels
+plt.rc("xtick", labelsize=14)  # fontsize of the tick labels
+plt.rc("ytick", labelsize=14)  # fontsize of the tick labels
+plt.rc("legend", fontsize=14)  # legend fontsize
+plt.rc("figure", titlesize=14)  # fontsize of the figure title
+plt.rcParams["font.monospace"] = "consolas"
+plt.rcParams["font.sans-serif"] = ["arial"]
+plt.rcParams["font.serif"] = "times new roman"
+plt.rcParams["font.family"] = "sans-serif"
 
 
 def delta_chart(
