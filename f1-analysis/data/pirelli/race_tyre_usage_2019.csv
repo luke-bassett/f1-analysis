@@ -1,0 +1,1290 @@
+driver,stop,value,condition,compound,lap,race_assignment,race,year
+BOT,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+HAM,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+VER,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+VET,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+LEC,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+MAG,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+HUL,0,C4n,new,C4,0,soft,Australian Grand Prix,2019
+RAI,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Australian Grand Prix,2019
+KVY,0,C3n,new,C3,0,medium,Australian Grand Prix,2019
+GAS,0,C3n,new,C3,0,medium,Australian Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+PER,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+ALB,0,C4n,new,C4,0,soft,Australian Grand Prix,2019
+GIO,0,C3n,new,C3,0,medium,Australian Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Australian Grand Prix,2019
+KUB,0,C2n,new,C2,0,hard,Australian Grand Prix,2019
+GRO,0,C4u,used,C4,0,soft,Australian Grand Prix,2019
+RIC,0,C4n,new,C4,0,soft,Australian Grand Prix,2019
+SAI,0,C4n,new,C4,0,soft,Australian Grand Prix,2019
+BOT,1,C3n (23),new,C3,23,medium,Australian Grand Prix,2019
+HAM,1,C3n (15),new,C3,15,medium,Australian Grand Prix,2019
+VER,1,C3n (25),new,C3,25,medium,Australian Grand Prix,2019
+VET,1,C3n (14),new,C3,14,medium,Australian Grand Prix,2019
+LEC,1,C2n (28),new,C2,28,hard,Australian Grand Prix,2019
+MAG,1,C3n (14),new,C3,14,medium,Australian Grand Prix,2019
+HUL,1,C2n (13),new,C2,13,hard,Australian Grand Prix,2019
+RAI,1,C3n (12),new,C3,12,medium,Australian Grand Prix,2019
+STR,1,C2n (27),new,C2,27,hard,Australian Grand Prix,2019
+KVY,1,C2u (26),used,C2,26,hard,Australian Grand Prix,2019
+GAS,1,C4n (37),new,C4,37,soft,Australian Grand Prix,2019
+NOR,1,C2n (15),new,C2,15,hard,Australian Grand Prix,2019
+PER,1,C2n (13),new,C2,13,hard,Australian Grand Prix,2019
+ALB,1,C3n (14),new,C3,14,medium,Australian Grand Prix,2019
+GIO,1,C4n (27),new,C4,27,soft,Australian Grand Prix,2019
+RUS,1,C4n (26),new,C4,26,soft,Australian Grand Prix,2019
+KUB,1,C3n (1),new,C3,1,medium,Australian Grand Prix,2019
+GRO,1,C3n (15),new,C3,15,medium,Australian Grand Prix,2019
+RIC,1,C2n (1),new,C2,1,hard,Australian Grand Prix,2019
+RUS,2,C2n (42),new,C2,42,hard,Australian Grand Prix,2019
+KUB,2,C4n (28),new,C4,28,soft,Australian Grand Prix,2019
+KUB,3,C4u (44),used,C4,44,soft,Australian Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+RAI,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+GIO,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+MAG,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+RUS,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+KUB,0,C2n,new,C2,0,medium,Bahrain Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+RIC,0,C3n,new,C3,0,soft,Bahrain Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Bahrain Grand Prix,2019
+HAM,1,C3n (13),new,C3,13,soft,Bahrain Grand Prix,2019
+BOT,1,C2n (12),new,C2,12,medium,Bahrain Grand Prix,2019
+LEC,1,C2n (13),new,C2,13,medium,Bahrain Grand Prix,2019
+VER,1,C2n (11),new,C2,11,medium,Bahrain Grand Prix,2019
+VET,1,C2n (14),new,C2,14,medium,Bahrain Grand Prix,2019
+NOR,1,C2n (10),new,C2,10,medium,Bahrain Grand Prix,2019
+RAI,1,C2n (9),new,C2,9,medium,Bahrain Grand Prix,2019
+GAS,1,C3n (9),new,C3,9,soft,Bahrain Grand Prix,2019
+ALB,1,C3n (9),new,C3,9,soft,Bahrain Grand Prix,2019
+PER,1,C2n (8),new,C2,8,medium,Bahrain Grand Prix,2019
+GIO,1,C2n (16),new,C2,16,medium,Bahrain Grand Prix,2019
+KVY,1,C2n (12),new,C2,12,medium,Bahrain Grand Prix,2019
+MAG,1,C2n (10),new,C2,10,medium,Bahrain Grand Prix,2019
+STR,1,C2n (1),new,C2,1,medium,Bahrain Grand Prix,2019
+RUS,1,C2n (12),new,C2,12,medium,Bahrain Grand Prix,2019
+KUB,1,C3n (11),new,C3,11,soft,Bahrain Grand Prix,2019
+HUL,1,C3n (12),new,C3,12,soft,Bahrain Grand Prix,2019
+RIC,1,C2n (24),new,C2,24,medium,Bahrain Grand Prix,2019
+SAI,1,C2n (4),new,C2,4,medium,Bahrain Grand Prix,2019
+GRO,1,C2n (1),new,C2,1,medium,Bahrain Grand Prix,2019
+HAM,2,C2n (34),new,C2,34,medium,Bahrain Grand Prix,2019
+BOT,2,C3u (37),used,C3,37,soft,Bahrain Grand Prix,2019
+LEC,2,C2n (36),new,C2,36,medium,Bahrain Grand Prix,2019
+VER,2,C2n (32),new,C2,32,medium,Bahrain Grand Prix,2019
+VET,2,C2n (35),new,C2,35,medium,Bahrain Grand Prix,2019
+NOR,2,C3u (34),used,C3,34,soft,Bahrain Grand Prix,2019
+RAI,2,C3u (33),used,C3,33,soft,Bahrain Grand Prix,2019
+GAS,2,C2n (39),new,C2,39,medium,Bahrain Grand Prix,2019
+ALB,2,C2n (25),new,C2,25,medium,Bahrain Grand Prix,2019
+PER,2,C2n (33),new,C2,33,medium,Bahrain Grand Prix,2019
+GIO,2,C3n (40),new,C3,40,soft,Bahrain Grand Prix,2019
+KVY,2,C3n (38),new,C3,38,soft,Bahrain Grand Prix,2019
+MAG,2,C3u (38),used,C3,38,soft,Bahrain Grand Prix,2019
+STR,2,C2n (23),new,C2,23,medium,Bahrain Grand Prix,2019
+RUS,2,C2n (26),new,C2,26,medium,Bahrain Grand Prix,2019
+KUB,2,C2u (27),used,C2,27,medium,Bahrain Grand Prix,2019
+HUL,2,C2n (32),new,C2,32,medium,Bahrain Grand Prix,2019
+SAI,2,C1u (24),used,C1,24,hard,Bahrain Grand Prix,2019
+VET,3,C3u (38),used,C3,38,soft,Bahrain Grand Prix,2019
+SAI,3,C3u (40),used,C3,40,soft,Bahrain Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,Chinese Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,Chinese Grand Prix,2019
+VET,0,C3u,used,C3,0,medium,Chinese Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,Chinese Grand Prix,2019
+LEC,0,C3u,used,C3,0,medium,Chinese Grand Prix,2019
+GAS,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+RIC,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+RAI,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+ALB,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+GRO,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+MAG,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+SAI,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+GIO,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+NOR,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+KVY,0,C3n,new,C3,0,medium,Chinese Grand Prix,2019
+HUL,0,C4u,used,C4,0,soft,Chinese Grand Prix,2019
+HAM,1,C2n (22),new,C2,22,hard,Chinese Grand Prix,2019
+BOT,1,C2n (21),new,C2,21,hard,Chinese Grand Prix,2019
+VET,1,C2n (18),new,C2,18,hard,Chinese Grand Prix,2019
+VER,1,C2n (17),new,C2,17,hard,Chinese Grand Prix,2019
+LEC,1,C2n (22),new,C2,22,hard,Chinese Grand Prix,2019
+GAS,1,C2n (19),new,C2,19,hard,Chinese Grand Prix,2019
+RIC,1,C2n (18),new,C2,18,hard,Chinese Grand Prix,2019
+PER,1,C2n (20),new,C2,20,hard,Chinese Grand Prix,2019
+RAI,1,C2n (25),new,C2,25,hard,Chinese Grand Prix,2019
+ALB,1,C2n (19),new,C2,19,hard,Chinese Grand Prix,2019
+GRO,1,C2n (8),new,C2,8,hard,Chinese Grand Prix,2019
+STR,1,C2n (20),new,C2,20,hard,Chinese Grand Prix,2019
+MAG,1,C2n (9),new,C2,9,hard,Chinese Grand Prix,2019
+SAI,1,C2n (1),new,C2,1,hard,Chinese Grand Prix,2019
+GIO,1,C3n (7),new,C3,7,medium,Chinese Grand Prix,2019
+RUS,1,C2n (22),new,C2,22,hard,Chinese Grand Prix,2019
+KUB,1,C2n (26),new,C2,26,hard,Chinese Grand Prix,2019
+NOR,1,C2n (1),new,C2,1,hard,Chinese Grand Prix,2019
+KVY,1,C2n (25),new,C2,25,hard,Chinese Grand Prix,2019
+HUL,1,C2n (11),new,C2,11,hard,Chinese Grand Prix,2019
+HAM,2,C3u (36),used,C3,36,medium,Chinese Grand Prix,2019
+BOT,2,C3n (36),new,C3,36,medium,Chinese Grand Prix,2019
+VET,2,C3n (35),new,C3,35,medium,Chinese Grand Prix,2019
+VER,2,C3n (34),new,C3,34,medium,Chinese Grand Prix,2019
+LEC,2,C3n (42),new,C3,42,medium,Chinese Grand Prix,2019
+GAS,2,C3n (39),new,C3,39,medium,Chinese Grand Prix,2019
+GRO,2,C3n (35),new,C3,35,medium,Chinese Grand Prix,2019
+STR,2,C4n (44),new,C4,44,soft,Chinese Grand Prix,2019
+MAG,2,C3n (33),new,C3,33,medium,Chinese Grand Prix,2019
+SAI,2,C4n (36),new,C4,36,soft,Chinese Grand Prix,2019
+GIO,2,C3n (30),new,C3,30,medium,Chinese Grand Prix,2019
+RUS,2,C4n (49),new,C4,49,soft,Chinese Grand Prix,2019
+NOR,2,C3u (17),used,C3,17,medium,Chinese Grand Prix,2019
+KVY,2,C4n (30),new,C4,30,soft,Chinese Grand Prix,2019
+GAS,3,C4u (53),used,C4,53,soft,Chinese Grand Prix,2019
+NOR,3,C4n (34),new,C4,34,soft,Chinese Grand Prix,2019
+BOT,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+HAM,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+VET,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+VER,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+LEC,0,C3n,new,C3,0,medium,Azerbaijan Grand Prix,2019
+PER,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+SAI,0,C4n,new,C4,0,soft,Azerbaijan Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+STR,0,C4n,new,C4,0,soft,Azerbaijan Grand Prix,2019
+RAI,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+ALB,0,C4n,new,C4,0,soft,Azerbaijan Grand Prix,2019
+GIO,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+MAG,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+HUL,0,C4n,new,C4,0,soft,Azerbaijan Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Azerbaijan Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Azerbaijan Grand Prix,2019
+GAS,0,C3n,new,C3,0,medium,Azerbaijan Grand Prix,2019
+GRO,0,C3n,new,C3,0,medium,Azerbaijan Grand Prix,2019
+KVY,0,C4u,used,C4,0,soft,Azerbaijan Grand Prix,2019
+RIC,0,C4n,new,C4,0,soft,Azerbaijan Grand Prix,2019
+BOT,1,C3n (12),new,C3,12,medium,Azerbaijan Grand Prix,2019
+HAM,1,C3n (13),new,C3,13,medium,Azerbaijan Grand Prix,2019
+VET,1,C3n (11),new,C3,11,medium,Azerbaijan Grand Prix,2019
+VER,1,C3n (14),new,C3,14,medium,Azerbaijan Grand Prix,2019
+LEC,1,C4n (34),new,C4,34,soft,Azerbaijan Grand Prix,2019
+PER,1,C3n (10),new,C3,10,medium,Azerbaijan Grand Prix,2019
+SAI,1,C3n (12),new,C3,12,medium,Azerbaijan Grand Prix,2019
+NOR,1,C3n (9),new,C3,9,medium,Azerbaijan Grand Prix,2019
+STR,1,C3n (10),new,C3,10,medium,Azerbaijan Grand Prix,2019
+RAI,1,C3n (6),new,C3,6,medium,Azerbaijan Grand Prix,2019
+ALB,1,C3n (12),new,C3,12,medium,Azerbaijan Grand Prix,2019
+GIO,1,C3n (7),new,C3,7,medium,Azerbaijan Grand Prix,2019
+MAG,1,C3n (7),new,C3,7,medium,Azerbaijan Grand Prix,2019
+HUL,1,C3n (8),new,C3,8,medium,Azerbaijan Grand Prix,2019
+RUS,1,C3n (25),new,C3,25,medium,Azerbaijan Grand Prix,2019
+KUB,1,C3n (23),new,C3,23,medium,Azerbaijan Grand Prix,2019
+GRO,1,C4u (34),used,C4,34,soft,Azerbaijan Grand Prix,2019
+KVY,1,C3n (5),new,C3,5,medium,Azerbaijan Grand Prix,2019
+RIC,1,C3n (10),new,C3,10,medium,Azerbaijan Grand Prix,2019
+LEC,2,C4n (47),new,C4,47,soft,Azerbaijan Grand Prix,2019
+NOR,2,C4u (39),used,C4,39,soft,Azerbaijan Grand Prix,2019
+MAG,2,C4n (39),new,C4,39,soft,Azerbaijan Grand Prix,2019
+HUL,2,C4n (34),new,C4,34,soft,Azerbaijan Grand Prix,2019
+RUS,2,C4n (38),new,C4,38,soft,Azerbaijan Grand Prix,2019
+KUB,2,C4n (42),new,C4,42,soft,Azerbaijan Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+MAG,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+SAI,0,C3n,new,C3,0,soft,Spanish Grand Prix,2019
+KVY,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+ALB,0,C3n,new,C3,0,soft,Spanish Grand Prix,2019
+RIC,0,C3u,used,C3,0,soft,Spanish Grand Prix,2019
+HUL,0,C2n,new,C2,0,medium,Spanish Grand Prix,2019
+RAI,0,C2n,new,C2,0,medium,Spanish Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Spanish Grand Prix,2019
+GIO,0,C3n,new,C3,0,soft,Spanish Grand Prix,2019
+RUS,0,C2n,new,C2,0,medium,Spanish Grand Prix,2019
+KUB,0,C2n,new,C2,0,medium,Spanish Grand Prix,2019
+STR,0,C2n,new,C2,0,medium,Spanish Grand Prix,2019
+NOR,0,C3n,new,C3,0,soft,Spanish Grand Prix,2019
+HAM,1,C2n (27),new,C2,27,medium,Spanish Grand Prix,2019
+BOT,1,C2n (26),new,C2,26,medium,Spanish Grand Prix,2019
+VER,1,C3n (20),new,C3,20,soft,Spanish Grand Prix,2019
+VET,1,C2n (19),new,C2,19,medium,Spanish Grand Prix,2019
+LEC,1,C1n (25),new,C1,25,hard,Spanish Grand Prix,2019
+GAS,1,C2n (22),new,C2,22,medium,Spanish Grand Prix,2019
+MAG,1,C2n (23),new,C2,23,medium,Spanish Grand Prix,2019
+SAI,1,C2n (24),new,C2,24,medium,Spanish Grand Prix,2019
+KVY,1,C2n (21),new,C2,21,medium,Spanish Grand Prix,2019
+GRO,1,C2n (26),new,C2,26,medium,Spanish Grand Prix,2019
+ALB,1,C2n (25),new,C2,25,medium,Spanish Grand Prix,2019
+RIC,1,C1n (24),new,C1,24,hard,Spanish Grand Prix,2019
+HUL,1,C3n (35),new,C3,35,soft,Spanish Grand Prix,2019
+RAI,1,C1n (28),new,C1,28,hard,Spanish Grand Prix,2019
+PER,1,C2n (24),new,C2,24,medium,Spanish Grand Prix,2019
+GIO,1,C1n (6),new,C1,6,hard,Spanish Grand Prix,2019
+RUS,1,C3n (32),new,C3,32,soft,Spanish Grand Prix,2019
+KUB,1,C3n (31),new,C3,31,soft,Spanish Grand Prix,2019
+STR,1,C3n (22),new,C3,22,soft,Spanish Grand Prix,2019
+NOR,1,C2n (26),new,C2,26,medium,Spanish Grand Prix,2019
+HAM,2,C3u (46),used,C3,46,soft,Spanish Grand Prix,2019
+BOT,2,C3u (45),used,C3,45,soft,Spanish Grand Prix,2019
+VER,2,C2n (43),new,C2,43,medium,Spanish Grand Prix,2019
+VET,2,C2n (40),new,C2,40,medium,Spanish Grand Prix,2019
+LEC,2,C2n (46),new,C2,46,medium,Spanish Grand Prix,2019
+GAS,2,C3u (46),used,C3,46,soft,Spanish Grand Prix,2019
+MAG,2,C3u (45),used,C3,45,soft,Spanish Grand Prix,2019
+SAI,2,C3u (46),used,C3,46,soft,Spanish Grand Prix,2019
+KVY,2,C2n (45),new,C2,45,medium,Spanish Grand Prix,2019
+GRO,2,C3u (46),used,C3,46,soft,Spanish Grand Prix,2019
+ALB,2,C2n (45),new,C2,45,medium,Spanish Grand Prix,2019
+RIC,2,C2n (45),new,C2,45,medium,Spanish Grand Prix,2019
+RAI,2,C3n (45),new,C3,45,soft,Spanish Grand Prix,2019
+PER,2,C3u (45),used,C3,45,soft,Spanish Grand Prix,2019
+GIO,2,C3n (41),new,C3,41,soft,Spanish Grand Prix,2019
+RUS,2,C2n (44),new,C2,44,medium,Spanish Grand Prix,2019
+KUB,2,C2n (44),new,C2,44,medium,Spanish Grand Prix,2019
+HAM,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+VET,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+BOT,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+VER,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+GAS,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+SAI,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+KVY,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+ALB,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+KVY,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+RIC,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+GRO,0,C5n,new,C5,0,soft,Monaco Grand Prix,2019
+NOR,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+MAG,0,C5u,used,C5,0,soft,Monaco Grand Prix,2019
+PER,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+HUL,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+RUS,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+STR,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+RAI,0,C5n,new,C5,0,soft,Monaco Grand Prix,2019
+KUB,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+GIO,0,C5n,new,C5,0,soft,Monaco Grand Prix,2019
+LEC,0,C4n,new,C4,0,medium,Monaco Grand Prix,2019
+HAM,1,C4n (11),new,C4,11,medium,Monaco Grand Prix,2019
+VET,1,C3n (11),new,C3,11,hard,Monaco Grand Prix,2019
+BOT,1,C4n (11),new,C4,11,medium,Monaco Grand Prix,2019
+VER,1,C3n (11),new,C3,11,hard,Monaco Grand Prix,2019
+GAS,1,C4n (27),new,C4,27,medium,Monaco Grand Prix,2019
+SAI,1,C4n (30),new,C4,30,medium,Monaco Grand Prix,2019
+KVY,1,C4n (32),new,C4,32,medium,Monaco Grand Prix,2019
+ALB,1,C4n (40),new,C4,40,medium,Monaco Grand Prix,2019
+KVY,1,C2n (21),new,C2,21,,Monaco Grand Prix,2019
+RIC,1,C4n (11),new,C4,11,medium,Monaco Grand Prix,2019
+GRO,1,C4n (50),new,C4,50,medium,Monaco Grand Prix,2019
+NOR,1,C5n (47),new,C5,47,soft,Monaco Grand Prix,2019
+MAG,1,C4n (11),new,C4,11,medium,Monaco Grand Prix,2019
+PER,1,C3n (11),new,C3,11,hard,Monaco Grand Prix,2019
+HUL,1,C3n (9),new,C3,9,hard,Monaco Grand Prix,2019
+RUS,1,C3n (10),new,C3,10,hard,Monaco Grand Prix,2019
+STR,1,C3n (39),new,C3,39,hard,Monaco Grand Prix,2019
+RAI,1,C4n (46),new,C4,46,medium,Monaco Grand Prix,2019
+KUB,1,C3n (21),new,C3,21,hard,Monaco Grand Prix,2019
+GIO,1,C4n (44),new,C4,44,medium,Monaco Grand Prix,2019
+LEC,1,C3n (9),new,C3,9,hard,Monaco Grand Prix,2019
+BOT,2,C3n (12),new,C3,12,hard,Monaco Grand Prix,2019
+GAS,2,C5u (62),used,C5,62,soft,Monaco Grand Prix,2019
+LEC,2,C5n (16),new,C5,16,soft,Monaco Grand Prix,2019
+HAM,0,C4u,used,C4,0,medium,Canadian Grand Prix,2019
+VET,0,C4u,used,C4,0,medium,Canadian Grand Prix,2019
+LEC,0,C4u,used,C4,0,medium,Canadian Grand Prix,2019
+BOT,0,C4u,used,C4,0,medium,Canadian Grand Prix,2019
+VER,0,C3n,new,C3,0,hard,Canadian Grand Prix,2019
+RIC,0,C5u,used,C5,0,soft,Canadian Grand Prix,2019
+HUL,0,C5u,used,C5,0,soft,Canadian Grand Prix,2019
+GAS,0,C5u,used,C5,0,soft,Canadian Grand Prix,2019
+STR,0,C3n,new,C3,0,hard,Canadian Grand Prix,2019
+KVY,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+SAI,0,C5u,used,C5,0,soft,Canadian Grand Prix,2019
+PER,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+GIO,0,C3n,new,C3,0,hard,Canadian Grand Prix,2019
+GRO,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+RAI,0,C4u,used,C4,0,medium,Canadian Grand Prix,2019
+RUS,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+MAG,0,C3n,new,C3,0,hard,Canadian Grand Prix,2019
+KUB,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+ALB,0,C4n,new,C4,0,medium,Canadian Grand Prix,2019
+NOR,0,C5u,used,C5,0,soft,Canadian Grand Prix,2019
+HAM,1,C3n (28),new,C3,28,hard,Canadian Grand Prix,2019
+VET,1,C3u (26),used,C3,26,hard,Canadian Grand Prix,2019
+LEC,1,C3u (33),used,C3,33,hard,Canadian Grand Prix,2019
+BOT,1,C3n (30),new,C3,30,hard,Canadian Grand Prix,2019
+VER,1,C4u (48),used,C4,48,medium,Canadian Grand Prix,2019
+RIC,1,C3n (8),new,C3,8,hard,Canadian Grand Prix,2019
+HUL,1,C3n (16),new,C3,16,hard,Canadian Grand Prix,2019
+GAS,1,C3n (7),new,C3,7,hard,Canadian Grand Prix,2019
+STR,1,C4n (45),new,C4,45,medium,Canadian Grand Prix,2019
+KVY,1,C3n (12),new,C3,12,hard,Canadian Grand Prix,2019
+SAI,1,C3n (3),new,C3,3,hard,Canadian Grand Prix,2019
+PER,1,C3n (11),new,C3,11,hard,Canadian Grand Prix,2019
+GIO,1,C4n (33),new,C4,33,medium,Canadian Grand Prix,2019
+GRO,1,C3n (34),new,C3,34,hard,Canadian Grand Prix,2019
+RAI,1,C3n (6),new,C3,6,hard,Canadian Grand Prix,2019
+RUS,1,C3n (9),new,C3,9,hard,Canadian Grand Prix,2019
+MAG,1,C4n (39),new,C4,39,medium,Canadian Grand Prix,2019
+KUB,1,C3n (8),new,C3,8,hard,Canadian Grand Prix,2019
+ALB,1,C3n (1),new,C3,1,hard,Canadian Grand Prix,2019
+BOT,2,C5u (67),used,C5,67,soft,Canadian Grand Prix,2019
+RAI,2,C5n (58),new,C5,58,soft,Canadian Grand Prix,2019
+KUB,2,C3n (38),new,C3,38,hard,Canadian Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,French Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,French Grand Prix,2019
+LEC,0,C3u,used,C3,0,medium,French Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,French Grand Prix,2019
+VET,0,C3u,used,C3,0,medium,French Grand Prix,2019
+SAI,0,C3u,used,C3,0,medium,French Grand Prix,2019
+RIC,0,C3u,used,C3,0,medium,French Grand Prix,2019
+RAI,0,C2n,new,C2,0,hard,French Grand Prix,2019
+HUL,0,C2n,new,C2,0,hard,French Grand Prix,2019
+NOR,0,C3u,used,C3,0,medium,French Grand Prix,2019
+GAS,0,C4u,used,C4,0,soft,French Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,French Grand Prix,2019
+STR,0,C2n,new,C2,0,hard,French Grand Prix,2019
+KVY,0,C2n,new,C2,0,hard,French Grand Prix,2019
+ALB,0,C3n,new,C3,0,medium,French Grand Prix,2019
+GIO,0,C4u,used,C4,0,soft,French Grand Prix,2019
+MAG,0,C3n,new,C3,0,medium,French Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,French Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,French Grand Prix,2019
+GRO,0,C2n,new,C2,0,hard,French Grand Prix,2019
+HAM,1,C2n (24),new,C2,24,hard,French Grand Prix,2019
+BOT,1,C2n (23),new,C2,23,hard,French Grand Prix,2019
+LEC,1,C2u (21),used,C2,21,hard,French Grand Prix,2019
+VER,1,C2n (20),new,C2,20,hard,French Grand Prix,2019
+VET,1,C2n (25),new,C2,25,hard,French Grand Prix,2019
+SAI,1,C2n (19),new,C2,19,hard,French Grand Prix,2019
+RIC,1,C2n (16),new,C2,16,hard,French Grand Prix,2019
+RAI,1,C3u (31),used,C3,31,medium,French Grand Prix,2019
+HUL,1,C3u (34),used,C3,34,medium,French Grand Prix,2019
+NOR,1,C2n (18),new,C2,18,hard,French Grand Prix,2019
+GAS,1,C2n (17),new,C2,17,hard,French Grand Prix,2019
+PER,1,C2n (18),new,C2,18,hard,French Grand Prix,2019
+STR,1,C3n (39),new,C3,39,medium,French Grand Prix,2019
+KVY,1,C3n (32),new,C3,32,medium,French Grand Prix,2019
+ALB,1,C2n (25),new,C2,25,hard,French Grand Prix,2019
+GIO,1,C2n (7),new,C2,7,hard,French Grand Prix,2019
+MAG,1,C2n (16),new,C2,16,hard,French Grand Prix,2019
+KUB,1,C2n (24),new,C2,24,hard,French Grand Prix,2019
+RUS,1,C2n (25),new,C2,25,hard,French Grand Prix,2019
+GRO,1,C3n (31),new,C3,31,medium,French Grand Prix,2019
+VET,2,C4n (51),new,C4,51,soft,French Grand Prix,2019
+GIO,2,C3n (34),new,C3,34,medium,French Grand Prix,2019
+RUS,2,C3n (33),new,C3,33,medium,French Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,Austrian Grand Prix,2019
+LEC,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,Austrian Grand Prix,2019
+VET,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,Austrian Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+GAS,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+SAI,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+RAI,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+GIO,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+RIC,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+HUL,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+ALB,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+GRO,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+KVY,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+MAG,0,C4u,used,C4,0,soft,Austrian Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Austrian Grand Prix,2019
+VER,1,C2n (31),new,C2,31,hard,Austrian Grand Prix,2019
+LEC,1,C2u (22),used,C2,22,hard,Austrian Grand Prix,2019
+BOT,1,C2n (21,new,C2,0,hard,Austrian Grand Prix,2019
+VET,1,C2n (21),new,C2,21,hard,Austrian Grand Prix,2019
+HAM,1,C2n (30),new,C2,30,hard,Austrian Grand Prix,2019
+NOR,1,C2n (19),new,C2,19,hard,Austrian Grand Prix,2019
+GAS,1,C2n (25),new,C2,25,hard,Austrian Grand Prix,2019
+SAI,1,C2n (41),new,C2,41,hard,Austrian Grand Prix,2019
+RAI,1,C2n (23),new,C2,23,hard,Austrian Grand Prix,2019
+GIO,1,C2n (24),new,C2,24,hard,Austrian Grand Prix,2019
+PER,1,C2n (28),new,C2,28,hard,Austrian Grand Prix,2019
+RIC,1,C4n (46),new,C4,46,soft,Austrian Grand Prix,2019
+HUL,1,C2n (26),new,C2,26,hard,Austrian Grand Prix,2019
+STR,1,C2n (25),new,C2,25,hard,Austrian Grand Prix,2019
+ALB,1,C2n (35),new,C2,35,hard,Austrian Grand Prix,2019
+GRO,1,C2n (34),new,C2,34,hard,Austrian Grand Prix,2019
+KVY,1,C2n (32),new,C2,32,hard,Austrian Grand Prix,2019
+RUS,1,C2n (27),new,C2,27,hard,Austrian Grand Prix,2019
+MAG,1,C2n (11),new,C2,11,hard,Austrian Grand Prix,2019
+KUB,1,C2n (19),new,C2,19,hard,Austrian Grand Prix,2019
+VET,2,C4n (50),new,C4,50,soft,Austrian Grand Prix,2019
+MAG,2,C4u (62),used,C4,62,soft,Austrian Grand Prix,2019
+HAM,0,C2u,used,C2,0,medium,British Grand Prix,2019
+BOT,0,C2u,used,C2,0,medium,British Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,British Grand Prix,2019
+GAS,0,C2u,used,C2,0,medium,British Grand Prix,2019
+VER,0,C2u,used,C2,0,medium,British Grand Prix,2019
+SAI,0,C2n,new,C2,0,medium,British Grand Prix,2019
+RIC,0,C3u,used,C3,0,soft,British Grand Prix,2019
+RAI,0,C2n,new,C2,0,medium,British Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,British Grand Prix,2019
+HUL,0,C3u,used,C3,0,soft,British Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,British Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,British Grand Prix,2019
+STR,0,C2n,new,C2,0,medium,British Grand Prix,2019
+RUS,0,C2n,new,C2,0,medium,British Grand Prix,2019
+KUB,0,C2n,new,C2,0,medium,British Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,British Grand Prix,2019
+PER,0,C2n,new,C2,0,medium,British Grand Prix,2019
+GIO,0,C2n,new,C2,0,medium,British Grand Prix,2019
+GRO,0,C3n,new,C3,0,soft,British Grand Prix,2019
+MAG,0,C3n,new,C3,0,soft,British Grand Prix,2019
+HAM,1,C1n (20),new,C1,20,hard,British Grand Prix,2019
+BOT,1,C2n (16),new,C2,16,medium,British Grand Prix,2019
+LEC,1,C2u (13),used,C2,13,medium,British Grand Prix,2019
+GAS,1,C1n (12),new,C1,12,hard,British Grand Prix,2019
+VER,1,C2n (13),new,C2,13,medium,British Grand Prix,2019
+SAI,1,C1n (20),new,C1,20,hard,British Grand Prix,2019
+RIC,1,C2n (12),new,C2,12,medium,British Grand Prix,2019
+RAI,1,C1n (17),new,C1,17,hard,British Grand Prix,2019
+KVY,1,C2n (12),new,C2,12,medium,British Grand Prix,2019
+HUL,1,C1u (13),used,C1,13,hard,British Grand Prix,2019
+NOR,1,C2n (13),new,C2,13,medium,British Grand Prix,2019
+ALB,1,C2n (13),new,C2,13,medium,British Grand Prix,2019
+STR,1,C1n (13),new,C1,13,hard,British Grand Prix,2019
+RUS,1,C1n (21),new,C1,21,hard,British Grand Prix,2019
+KUB,1,C1n (20),new,C1,20,hard,British Grand Prix,2019
+VET,1,C1u (20),used,C1,20,hard,British Grand Prix,2019
+PER,1,C1n (18),new,C1,18,hard,British Grand Prix,2019
+GRO,1,C1n (1),new,C1,1,hard,British Grand Prix,2019
+MAG,1,C1n (1),new,C1,1,hard,British Grand Prix,2019
+BOT,2,C3u (45),used,C3,45,soft,British Grand Prix,2019
+LEC,2,C1u (21),used,C1,21,hard,British Grand Prix,2019
+VER,2,C1n (20),new,C1,20,hard,British Grand Prix,2019
+RIC,2,C1n (20),new,C1,20,hard,British Grand Prix,2019
+KVY,2,C1u (21),used,C1,21,hard,British Grand Prix,2019
+NOR,2,C1n (35),new,C1,35,hard,British Grand Prix,2019
+STR,2,C3n (39),new,C3,39,soft,British Grand Prix,2019
+VET,2,C2n (38),new,C2,38,medium,British Grand Prix,2019
+PER,2,C3n (24),new,C3,24,soft,British Grand Prix,2019
+PER,3,C3u (46),used,C3,46,soft,British Grand Prix,2019
+VER,0,Wn,new,W,0,,German Grand Prix,2019
+VET,0,Wn,new,W,0,,German Grand Prix,2019
+KVY,0,Wn,new,W,0,,German Grand Prix,2019
+STR,0,Wn,new,W,0,,German Grand Prix,2019
+SAI,0,Wn,new,W,0,,German Grand Prix,2019
+ALB,0,Wn,new,W,0,,German Grand Prix,2019
+RAI,0,Wn,new,W,0,,German Grand Prix,2019
+GIO,0,Wn,new,W,0,,German Grand Prix,2019
+GRO,0,Wn,new,W,0,,German Grand Prix,2019
+MAG,0,Wn,new,W,0,,German Grand Prix,2019
+HAM,0,Wn,new,W,0,,German Grand Prix,2019
+KUB,0,Wn,new,W,0,,German Grand Prix,2019
+RUS,0,Wn,new,W,0,,German Grand Prix,2019
+GAS,0,Wn,new,W,0,,German Grand Prix,2019
+BOT,0,Wn,new,W,0,,German Grand Prix,2019
+HUL,0,Wn,new,W,0,,German Grand Prix,2019
+LEC,0,Wn,new,W,0,,German Grand Prix,2019
+NOR,0,Wn,new,W,0,,German Grand Prix,2019
+RIC,0,Wn,new,W,0,,German Grand Prix,2019
+PER,0,Wn,new,W,0,,German Grand Prix,2019
+VER,1,In (3),new,I,3,,German Grand Prix,2019
+VET,1,In (2),new,I,2,,German Grand Prix,2019
+KVY,1,In (3),new,I,3,,German Grand Prix,2019
+STR,1,In (7),new,I,7,,German Grand Prix,2019
+SAI,1,In (3),new,I,3,,German Grand Prix,2019
+ALB,1,In (2),new,I,2,,German Grand Prix,2019
+RAI,1,In (3),new,I,3,,German Grand Prix,2019
+GIO,1,In (3),new,I,3,,German Grand Prix,2019
+GRO,1,In (3),new,I,3,,German Grand Prix,2019
+MAG,1,In (8),new,I,8,,German Grand Prix,2019
+HAM,1,In (3),new,I,3,,German Grand Prix,2019
+KUB,1,In (7),new,I,7,,German Grand Prix,2019
+RUS,1,In (7),new,I,7,,German Grand Prix,2019
+GAS,1,In (3),new,I,3,,German Grand Prix,2019
+BOT,1,In (3),new,I,3,,German Grand Prix,2019
+HUL,1,In (3),new,I,3,,German Grand Prix,2019
+LEC,1,In (3),new,I,3,,German Grand Prix,2019
+NOR,1,In (6),new,I,6,,German Grand Prix,2019
+RIC,1,In (3),new,I,3,,German Grand Prix,2019
+VER,2,C3u (25),used,C3,25,medium,German Grand Prix,2019
+VET,2,C4n (23),new,C4,23,soft,German Grand Prix,2019
+KVY,2,C4u (25),used,C4,25,soft,German Grand Prix,2019
+STR,2,C3n (25),new,C3,25,medium,German Grand Prix,2019
+SAI,2,In (27),new,I,27,,German Grand Prix,2019
+ALB,2,C4n (27),new,C4,27,soft,German Grand Prix,2019
+RAI,2,C3n (26),new,C3,26,medium,German Grand Prix,2019
+GIO,2,C3n (26),new,C3,26,medium,German Grand Prix,2019
+GRO,2,C4u (26),used,C4,26,soft,German Grand Prix,2019
+MAG,2,C4n (21),new,C4,21,soft,German Grand Prix,2019
+HAM,2,C4u (28),used,C4,28,soft,German Grand Prix,2019
+KUB,2,In (23),new,I,23,,German Grand Prix,2019
+RUS,2,In (24),new,I,24,,German Grand Prix,2019
+GAS,2,C4u (26),used,C4,26,soft,German Grand Prix,2019
+BOT,2,C3u (26),used,C3,26,medium,German Grand Prix,2019
+HUL,2,In (15),new,I,15,,German Grand Prix,2019
+LEC,2,In (15),new,I,15,,German Grand Prix,2019
+NOR,2,C4n (25),new,C4,25,soft,German Grand Prix,2019
+VER,3,In (29),new,I,29,,German Grand Prix,2019
+VET,3,In (28),new,I,28,,German Grand Prix,2019
+KVY,3,In (28),new,I,28,,German Grand Prix,2019
+STR,3,In (28),new,I,28,,German Grand Prix,2019
+SAI,3,C4u (46),used,C4,46,soft,German Grand Prix,2019
+ALB,3,In (28),new,I,28,,German Grand Prix,2019
+RAI,3,In (28),new,I,28,,German Grand Prix,2019
+GIO,3,In (28),new,I,28,,German Grand Prix,2019
+GRO,3,In (28),new,I,28,,German Grand Prix,2019
+MAG,3,In (29),new,I,29,,German Grand Prix,2019
+HAM,3,In (29),new,I,29,,German Grand Prix,2019
+KUB,3,In (31),new,I,31,,German Grand Prix,2019
+RUS,3,In (41),new,I,41,,German Grand Prix,2019
+GAS,3,In (28),new,I,28,,German Grand Prix,2019
+BOT,3,In (30),new,I,30,,German Grand Prix,2019
+HUL,3,In (29),new,I,29,,German Grand Prix,2019
+LEC,3,C4n (27),new,C4,27,soft,German Grand Prix,2019
+VER,4,In (41),new,I,41,,German Grand Prix,2019
+VET,4,In (41),new,I,41,,German Grand Prix,2019
+KVY,4,C4n (45),new,C4,45,soft,German Grand Prix,2019
+STR,4,In (41),new,I,41,,German Grand Prix,2019
+ALB,4,C4n (46),new,C4,46,soft,German Grand Prix,2019
+RAI,4,C4u (47),used,C4,47,soft,German Grand Prix,2019
+GIO,4,C4n (47),new,C4,47,soft,German Grand Prix,2019
+GRO,4,In (41),new,I,41,,German Grand Prix,2019
+MAG,4,In (42),new,I,42,,German Grand Prix,2019
+HAM,4,C4u (47),used,C4,47,soft,German Grand Prix,2019
+KUB,4,C4n (46),new,C4,46,soft,German Grand Prix,2019
+RUS,4,C4n (47),new,C4,47,soft,German Grand Prix,2019
+GAS,4,C4u (46),used,C4,46,soft,German Grand Prix,2019
+BOT,4,C4u (46),used,C4,46,soft,German Grand Prix,2019
+VER,5,C4n (46),new,C4,46,soft,German Grand Prix,2019
+VET,5,C4n (47),new,C4,47,soft,German Grand Prix,2019
+STR,5,C4n (44),new,C4,44,soft,German Grand Prix,2019
+GRO,5,C4u (46),used,C4,46,soft,German Grand Prix,2019
+MAG,5,C4u (45),used,C4,45,soft,German Grand Prix,2019
+HAM,5,C4u (53),used,C4,53,soft,German Grand Prix,2019
+KUB,5,C4u (57),used,C4,57,soft,German Grand Prix,2019
+RUS,5,C4u (57),used,C4,57,soft,German Grand Prix,2019
+MAG,6,C4u (57),used,C4,57,soft,German Grand Prix,2019
+HAM,6,C4u (56),used,C4,56,soft,German Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+VET,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+LEC,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+SAI,0,C4u,used,C4,0,soft,Hungarian Grand Prix,2019
+GAS,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+RAI,0,C4u,used,C4,0,soft,Hungarian Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,Hungarian Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Hungarian Grand Prix,2019
+ALB,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+HUL,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+MAG,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+RIC,0,C2n,new,C2,0,hard,Hungarian Grand Prix,2019
+KVY,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+GIO,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2019
+GRO,0,C4u,used,C4,0,soft,Hungarian Grand Prix,2019
+HAM,1,C2n (31),new,C2,31,hard,Hungarian Grand Prix,2019
+VER,1,C2n (25),new,C2,25,hard,Hungarian Grand Prix,2019
+VET,1,C4n (39),new,C4,39,soft,Hungarian Grand Prix,2019
+LEC,1,C2u (27),used,C2,27,hard,Hungarian Grand Prix,2019
+SAI,1,C2n (29),new,C2,29,hard,Hungarian Grand Prix,2019
+GAS,1,C2n (28),new,C2,28,hard,Hungarian Grand Prix,2019
+RAI,1,C3n (29),new,C3,29,medium,Hungarian Grand Prix,2019
+BOT,1,C2n (5),new,C2,5,hard,Hungarian Grand Prix,2019
+NOR,1,C2n (28),new,C2,28,hard,Hungarian Grand Prix,2019
+ALB,1,C2n (28),new,C2,28,hard,Hungarian Grand Prix,2019
+PER,1,C2n (18),new,C2,18,hard,Hungarian Grand Prix,2019
+HUL,1,C4n (36),new,C4,36,soft,Hungarian Grand Prix,2019
+MAG,1,C4n (38),new,C4,38,soft,Hungarian Grand Prix,2019
+RIC,1,C4n (46),new,C4,46,soft,Hungarian Grand Prix,2019
+KVY,1,C2n (21),new,C2,21,hard,Hungarian Grand Prix,2019
+RUS,1,C2n (16),new,C2,16,hard,Hungarian Grand Prix,2019
+STR,1,C2n (16),new,C2,16,hard,Hungarian Grand Prix,2019
+GIO,1,C2n (15),new,C2,15,hard,Hungarian Grand Prix,2019
+KUB,1,C2n (18),new,C2,18,hard,Hungarian Grand Prix,2019
+GRO,1,C2n (19),new,C2,19,hard,Hungarian Grand Prix,2019
+HAM,2,C3u (48),used,C3,48,medium,Hungarian Grand Prix,2019
+VER,2,C4u (67),used,C4,67,soft,Hungarian Grand Prix,2019
+BOT,2,C3u (46),used,C3,46,medium,Hungarian Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+ALB,0,C2n,new,C2,0,medium,Belgian Grand Prix,2019
+PER,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+KVY,0,C2n,new,C2,0,medium,Belgian Grand Prix,2019
+HUL,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+GAS,0,C3n,new,C3,0,soft,Belgian Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Belgian Grand Prix,2019
+NOR,0,C3n,new,C3,0,soft,Belgian Grand Prix,2019
+MAG,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+GRO,0,C3n,new,C3,0,soft,Belgian Grand Prix,2019
+RIC,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+RUS,0,C2n,new,C2,0,medium,Belgian Grand Prix,2019
+RAI,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+KUB,0,C2n,new,C2,0,medium,Belgian Grand Prix,2019
+GIO,0,C2n,new,C2,0,medium,Belgian Grand Prix,2019
+SAI,0,C3n,new,C3,0,soft,Belgian Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Belgian Grand Prix,2019
+LEC,1,C2n (21),new,C2,21,medium,Belgian Grand Prix,2019
+HAM,1,C2n (22),new,C2,22,medium,Belgian Grand Prix,2019
+BOT,1,C2n (23),new,C2,23,medium,Belgian Grand Prix,2019
+VET,1,C2n (15),new,C2,15,medium,Belgian Grand Prix,2019
+ALB,1,C3n (23),new,C3,23,soft,Belgian Grand Prix,2019
+PER,1,C2n (15),new,C2,15,medium,Belgian Grand Prix,2019
+KVY,1,C3n (24),new,C3,24,soft,Belgian Grand Prix,2019
+HUL,1,C2n (11),new,C2,11,medium,Belgian Grand Prix,2019
+GAS,1,C2n (13),new,C2,13,medium,Belgian Grand Prix,2019
+STR,1,C2n (14),new,C2,14,medium,Belgian Grand Prix,2019
+NOR,1,C2n (19),new,C2,19,medium,Belgian Grand Prix,2019
+MAG,1,C2n (25),new,C2,25,medium,Belgian Grand Prix,2019
+GRO,1,C2n (16),new,C2,16,medium,Belgian Grand Prix,2019
+RIC,1,C2n (1),new,C2,1,medium,Belgian Grand Prix,2019
+RUS,1,C3n (30),new,C3,30,soft,Belgian Grand Prix,2019
+RAI,1,C2n (1),new,C2,1,medium,Belgian Grand Prix,2019
+KUB,1,C3n (31),new,C3,31,soft,Belgian Grand Prix,2019
+GIO,1,C3n (29),new,C3,29,soft,Belgian Grand Prix,2019
+VET,2,C3u (33),used,C3,33,soft,Belgian Grand Prix,2019
+HUL,2,C3u (31),used,C3,31,soft,Belgian Grand Prix,2019
+STR,2,C3n (30),new,C3,30,soft,Belgian Grand Prix,2019
+RAI,2,C3u (31),used,C3,31,soft,Belgian Grand Prix,2019
+LEC,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+BOT,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+HAM,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+RIC,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+HUL,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+ALB,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+VER,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+GIO,0,C4n,new,C4,0,soft,Italian Grand Prix,2019
+NOR,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+GAS,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+STR,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+VET,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+RAI,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+GRO,0,C4n,new,C4,0,soft,Italian Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+MAG,0,C4n,new,C4,0,soft,Italian Grand Prix,2019
+KVY,0,C3n,new,C3,0,medium,Italian Grand Prix,2019
+SAI,0,C4u,used,C4,0,soft,Italian Grand Prix,2019
+LEC,1,C2n (20),new,C2,20,hard,Italian Grand Prix,2019
+BOT,1,C3n (27),new,C3,27,medium,Italian Grand Prix,2019
+HAM,1,C3n (19),new,C3,19,medium,Italian Grand Prix,2019
+RIC,1,C3n (30),new,C3,30,medium,Italian Grand Prix,2019
+HUL,1,C3n (29),new,C3,29,medium,Italian Grand Prix,2019
+ALB,1,C3n (26),new,C3,26,medium,Italian Grand Prix,2019
+PER,1,C4n (28),new,C4,28,soft,Italian Grand Prix,2019
+VER,1,C4n (1),new,C4,1,soft,Italian Grand Prix,2019
+GIO,1,C3n (21),new,C3,21,medium,Italian Grand Prix,2019
+NOR,1,C2n (23),new,C2,23,hard,Italian Grand Prix,2019
+GAS,1,C4n (28),new,C4,28,soft,Italian Grand Prix,2019
+STR,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2019
+VET,1,C2n (6),new,C2,6,hard,Italian Grand Prix,2019
+RUS,1,C2n (23),new,C2,23,hard,Italian Grand Prix,2019
+RAI,1,C4n (26),new,C4,26,soft,Italian Grand Prix,2019
+GRO,1,C3n (7),new,C3,7,medium,Italian Grand Prix,2019
+KUB,1,C4n (29),new,C4,29,soft,Italian Grand Prix,2019
+MAG,1,C3n (20),new,C3,20,medium,Italian Grand Prix,2019
+KVY,1,C4n (28),new,C4,28,soft,Italian Grand Prix,2019
+SAI,1,C3n (28),new,C3,28,medium,Italian Grand Prix,2019
+HAM,2,C4u (49),used,C4,49,soft,Italian Grand Prix,2019
+VER,2,C3u (27),used,C3,27,medium,Italian Grand Prix,2019
+VET,2,C3n (41),new,C3,41,medium,Italian Grand Prix,2019
+GRO,2,C4n (29),new,C4,29,soft,Italian Grand Prix,2019
+KUB,2,C3n (44),new,C3,44,medium,Italian Grand Prix,2019
+MAG,2,C4u (34),used,C4,34,soft,Italian Grand Prix,2019
+VET,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+LEC,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+VER,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+HAM,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+BOT,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+ALB,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+NOR,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+GAS,0,C3n,new,C3,0,hard,Singapore Grand Prix,2019
+HUL,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+GIO,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+GRO,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+SAI,0,C5u,used,C5,0,soft,Singapore Grand Prix,2019
+STR,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+RIC,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+KVY,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+KUB,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+MAG,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+RAI,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+PER,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+RUS,0,C4n,new,C4,0,medium,Singapore Grand Prix,2019
+VET,1,C3n (19),new,C3,19,hard,Singapore Grand Prix,2019
+LEC,1,C3n (20),new,C3,20,hard,Singapore Grand Prix,2019
+VER,1,C3n (19),new,C3,19,hard,Singapore Grand Prix,2019
+HAM,1,C3n (26),new,C3,26,hard,Singapore Grand Prix,2019
+BOT,1,C3n (22),new,C3,22,hard,Singapore Grand Prix,2019
+ALB,1,C3n (20),new,C3,20,hard,Singapore Grand Prix,2019
+NOR,1,C3n (20),new,C3,20,hard,Singapore Grand Prix,2019
+GAS,1,C4n (32),new,C4,32,medium,Singapore Grand Prix,2019
+HUL,1,C3n (1),new,C3,1,hard,Singapore Grand Prix,2019
+GIO,1,C3n (34),new,C3,34,hard,Singapore Grand Prix,2019
+GRO,1,C3n (23),new,C3,23,hard,Singapore Grand Prix,2019
+SAI,1,C3n (1),new,C3,1,hard,Singapore Grand Prix,2019
+STR,1,C3n (31),new,C3,31,hard,Singapore Grand Prix,2019
+RIC,1,C3n (34),new,C3,34,hard,Singapore Grand Prix,2019
+KVY,1,C3n (12),new,C3,12,hard,Singapore Grand Prix,2019
+KUB,1,C3n (21),new,C3,21,hard,Singapore Grand Prix,2019
+MAG,1,C3n (18),new,C3,18,hard,Singapore Grand Prix,2019
+RAI,1,C3n (15),new,C3,15,hard,Singapore Grand Prix,2019
+PER,1,C3n (13),new,C3,13,hard,Singapore Grand Prix,2019
+RUS,1,C3n (1),new,C3,1,hard,Singapore Grand Prix,2019
+HUL,2,C4n (36),new,C4,36,medium,Singapore Grand Prix,2019
+GIO,2,C5n (36),new,C5,36,soft,Singapore Grand Prix,2019
+GRO,2,C5n (35),new,C5,35,soft,Singapore Grand Prix,2019
+SAI,2,C4n (35),new,C4,35,medium,Singapore Grand Prix,2019
+STR,2,C5n (41),new,C5,41,soft,Singapore Grand Prix,2019
+KVY,2,C5n (36),new,C5,36,soft,Singapore Grand Prix,2019
+KUB,2,C4n (44),new,C4,44,medium,Singapore Grand Prix,2019
+MAG,2,C5n (56),new,C5,56,soft,Singapore Grand Prix,2019
+STR,3,C5n (44),new,C5,44,soft,Singapore Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,Russian Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,Russian Grand Prix,2019
+LEC,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+VER,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+ALB,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+SAI,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+PER,0,C4n,new,C4,0,soft,Russian Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+MAG,0,C4n,new,C4,0,soft,Russian Grand Prix,2019
+HUL,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+KVY,0,C2n,new,C2,0,hard,Russian Grand Prix,2019
+RAI,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+GAS,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+GIO,0,C4n,new,C4,0,soft,Russian Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Russian Grand Prix,2019
+VET,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+RIC,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+GRO,0,C4u,used,C4,0,soft,Russian Grand Prix,2019
+HAM,1,C4u (28),used,C4,28,soft,Russian Grand Prix,2019
+BOT,1,C4u (28),used,C4,28,soft,Russian Grand Prix,2019
+LEC,1,C3n (22),new,C3,22,medium,Russian Grand Prix,2019
+VER,1,C3n (28),new,C3,28,medium,Russian Grand Prix,2019
+ALB,1,C4n (29),new,C4,29,soft,Russian Grand Prix,2019
+SAI,1,C3n (21),new,C3,21,medium,Russian Grand Prix,2019
+PER,1,C3n (23),new,C3,23,medium,Russian Grand Prix,2019
+NOR,1,C3n (20),new,C3,20,medium,Russian Grand Prix,2019
+MAG,1,C3n (27),new,C3,27,medium,Russian Grand Prix,2019
+HUL,1,C3n (16),new,C3,16,medium,Russian Grand Prix,2019
+STR,1,C4n (27),new,C4,27,soft,Russian Grand Prix,2019
+KVY,1,C4n (27),new,C4,27,soft,Russian Grand Prix,2019
+RAI,1,C4n (27),new,C4,27,soft,Russian Grand Prix,2019
+GAS,1,C4n (26),new,C4,26,soft,Russian Grand Prix,2019
+GIO,1,C2n (2),new,C2,2,hard,Russian Grand Prix,2019
+KUB,1,C2n (1),new,C2,1,hard,Russian Grand Prix,2019
+VET,1,C3n (26),new,C3,26,medium,Russian Grand Prix,2019
+RIC,1,C3n (1),new,C3,1,medium,Russian Grand Prix,2019
+LEC,2,C4u (30),used,C4,30,soft,Russian Grand Prix,2019
+HUL,2,C4u (29),used,C4,29,soft,Russian Grand Prix,2019
+KVY,2,C4n (29),new,C4,29,soft,Russian Grand Prix,2019
+GIO,2,C3n (27),new,C3,27,medium,Russian Grand Prix,2019
+KUB,2,C3n (2),new,C3,2,medium,Russian Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+SAI,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+LEC,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+RIC,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+HUL,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+KVY,0,C3n,new,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+NOR,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+RAI,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+GIO,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+MAG,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+RUS,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+KUB,0,C2n,new,C2,0,,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Japanese Grand Prix,2019
+BOT,1,C2n (17),new,C2,17,,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+VET,1,C3n (16),new,C3,16,soft,Japanese Grand Prix,2019
+HAM,1,C2n (21),new,C2,21,,Japanese Grand Prix,2019
+ALB,1,C2n (15),new,C2,15,,Japanese Grand Prix,2019
+SAI,1,C2n (26),new,C2,26,,Japanese Grand Prix,2019
+LEC,1,C2n (3),new,C2,3,,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+RIC,1,C3n (29),new,C3,29,soft,Japanese Grand Prix,2019
+GAS,1,C2n (18),new,C2,18,,Japanese Grand Prix,2019
+PER,1,C2n (19),new,C2,19,,Japanese Grand Prix,2019
+HUL,1,C2n (19),new,C2,19,,Japanese Grand Prix,2019
+STR,1,C2n (18),new,C2,18,,Japanese Grand Prix,2019
+KVY,1,C2n (27),new,C2,27,,Japanese Grand Prix,2019
+NOR,1,C2n (4),new,C2,4,,Japanese Grand Prix,2019
+RAI,1,C1n (15),new,C1,15,,Japanese Grand Prix,2019
+GRO,1,C1n (16),new,C1,16,,Japanese Grand Prix,2019
+GIO,1,C1n (18),new,C1,18,,Japanese Grand Prix,2019
+MAG,1,C1n (17),new,C1,17,,Japanese Grand Prix,2019
+RUS,1,C1n (25),new,C1,25,,Japanese Grand Prix,2019
+KUB,1,C1n (22),new,C1,22,,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+BOT,2,C3u (36),used,C3,36,soft,Japanese Grand Prix,2019
+VET,2,C2n (31),new,C2,31,,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+HAM,2,C3u (42),used,C3,42,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+ALB,2,C3u (34),used,C3,34,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+LEC,2,C3n (25),new,C3,25,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+PER,2,C3n (41),new,C3,41,soft,Japanese Grand Prix,2019
+NOR,2,C1u (25),used,C1,25,,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+RAI,2,C3n (36),new,C3,36,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+GIO,2,C3n (49),new,C3,49,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+MAG,2,C3n (47),new,C3,47,soft,Japanese Grand Prix,2019
+KUB,2,C2n (33),new,C2,33,,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+LEC,3,C3u (46),used,C3,46,soft,Japanese Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+VET,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+LEC,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+ALB,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,Mexican Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+RIC,0,C2n,new,C2,0,hard,Mexican Grand Prix,2019
+GAS,0,C4u,used,C4,0,soft,Mexican Grand Prix,2019
+HUL,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+KVY,0,C4u,used,C4,0,soft,Mexican Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+SAI,0,C4u,used,C4,0,soft,Mexican Grand Prix,2019
+GIO,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+MAG,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+GRO,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+RAI,0,C3n,new,C3,0,medium,Mexican Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,Mexican Grand Prix,2019
+HAM,1,C2n (23),new,C2,23,hard,Mexican Grand Prix,2019
+VET,1,C2n (37),new,C2,37,hard,Mexican Grand Prix,2019
+BOT,1,C2n (36),new,C2,36,hard,Mexican Grand Prix,2019
+LEC,1,C3n (15),new,C3,15,medium,Mexican Grand Prix,2019
+ALB,1,C3n (14),new,C3,14,medium,Mexican Grand Prix,2019
+VER,1,C2n (5),new,C2,5,hard,Mexican Grand Prix,2019
+PER,1,C2n (20),new,C2,20,hard,Mexican Grand Prix,2019
+RIC,1,C3n (50),new,C3,50,medium,Mexican Grand Prix,2019
+GAS,1,C2n (9),new,C2,9,hard,Mexican Grand Prix,2019
+HUL,1,C2n (18),new,C2,18,hard,Mexican Grand Prix,2019
+KVY,1,C2n (10),new,C2,10,hard,Mexican Grand Prix,2019
+STR,1,C2n (37),new,C2,37,hard,Mexican Grand Prix,2019
+SAI,1,C2n (15),new,C2,15,hard,Mexican Grand Prix,2019
+GIO,1,C2n (21),new,C2,21,hard,Mexican Grand Prix,2019
+MAG,1,C2n (28),new,C2,28,hard,Mexican Grand Prix,2019
+RUS,1,C2n (22),new,C2,22,hard,Mexican Grand Prix,2019
+GRO,1,C2n (37),new,C2,37,hard,Mexican Grand Prix,2019
+KUB,1,C2n (21),new,C2,21,hard,Mexican Grand Prix,2019
+RAI,1,C2n (15),new,C2,15,hard,Mexican Grand Prix,2019
+NOR,1,C2n (12),new,C2,12,hard,Mexican Grand Prix,2019
+LEC,2,C2n (43),new,C2,43,hard,Mexican Grand Prix,2019
+ALB,2,C2n (44),new,C2,44,hard,Mexican Grand Prix,2019
+GAS,2,C3n (49),new,C3,49,medium,Mexican Grand Prix,2019
+KVY,2,C3n (44),new,C3,44,medium,Mexican Grand Prix,2019
+SAI,2,C3n (35),new,C3,35,medium,Mexican Grand Prix,2019
+KUB,2,C3n (60),new,C3,60,medium,Mexican Grand Prix,2019
+RAI,2,C3u (52),used,C3,52,medium,Mexican Grand Prix,2019
+BOT,0,C3u,used,C3,0,medium,United States Grand Prix,2019
+HAM,0,C3u,used,C3,0,medium,United States Grand Prix,2019
+VER,0,C3u,used,C3,0,medium,United States Grand Prix,2019
+LEC,0,C3u,used,C3,0,medium,United States Grand Prix,2019
+ALB,0,C4u,used,C4,0,soft,United States Grand Prix,2019
+RIC,0,C4u,used,C4,0,soft,United States Grand Prix,2019
+NOR,0,C4u,used,C4,0,soft,United States Grand Prix,2019
+SAI,0,C4u,used,C4,0,soft,United States Grand Prix,2019
+HUL,0,C2n,new,C2,0,hard,United States Grand Prix,2019
+PER,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+RAI,0,C4n,new,C4,0,soft,United States Grand Prix,2019
+KVY,0,C2n,new,C2,0,hard,United States Grand Prix,2019
+STR,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+GIO,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+GRO,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+GAS,0,C4u,used,C4,0,soft,United States Grand Prix,2019
+RUS,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+MAG,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+KUB,0,C3n,new,C3,0,medium,United States Grand Prix,2019
+VET,0,C3u,used,C3,0,medium,United States Grand Prix,2019
+BOT,1,C2n (14),new,C2,14,hard,United States Grand Prix,2019
+HAM,1,C2n (24),new,C2,24,hard,United States Grand Prix,2019
+VER,1,C2u (13),used,C2,13,hard,United States Grand Prix,2019
+LEC,1,C2n (20),new,C2,20,hard,United States Grand Prix,2019
+ALB,1,C3n (1),new,C3,1,medium,United States Grand Prix,2019
+RIC,1,C2n (21),new,C2,21,hard,United States Grand Prix,2019
+NOR,1,C2n (19),new,C2,19,hard,United States Grand Prix,2019
+SAI,1,C2n (18),new,C2,18,hard,United States Grand Prix,2019
+HUL,1,C3n (27),new,C3,27,medium,United States Grand Prix,2019
+PER,1,C2n (24),new,C2,24,hard,United States Grand Prix,2019
+RAI,1,C2n (18),new,C2,18,hard,United States Grand Prix,2019
+KVY,1,C3n (21),new,C3,21,medium,United States Grand Prix,2019
+STR,1,C2n (9),new,C2,9,hard,United States Grand Prix,2019
+GIO,1,C2n (17),new,C2,17,hard,United States Grand Prix,2019
+GRO,1,C2u (24),used,C2,24,hard,United States Grand Prix,2019
+GAS,1,C2n (19),new,C2,19,hard,United States Grand Prix,2019
+RUS,1,C2n (23),new,C2,23,hard,United States Grand Prix,2019
+MAG,1,C2u (18),used,C2,18,hard,United States Grand Prix,2019
+KUB,1,C2n (11),new,C2,11,hard,United States Grand Prix,2019
+BOT,2,C3n (35),new,C3,35,medium,United States Grand Prix,2019
+VER,2,C3n (34),new,C3,34,medium,United States Grand Prix,2019
+LEC,2,C4n (42),new,C4,42,soft,United States Grand Prix,2019
+ALB,2,C3n (20),new,C3,20,medium,United States Grand Prix,2019
+NOR,2,C3n (42),new,C3,42,medium,United States Grand Prix,2019
+HUL,2,C4n (39),new,C4,39,soft,United States Grand Prix,2019
+RAI,2,C4n (40),new,C4,40,soft,United States Grand Prix,2019
+KVY,2,C4n (39),new,C4,39,soft,United States Grand Prix,2019
+STR,2,C4n (29),new,C4,29,soft,United States Grand Prix,2019
+GIO,2,C4n (39),new,C4,39,soft,United States Grand Prix,2019
+GAS,2,C4u (53),used,C4,53,soft,United States Grand Prix,2019
+RUS,2,C4n (46),new,C4,46,soft,United States Grand Prix,2019
+MAG,2,C4n (40),new,C4,40,soft,United States Grand Prix,2019
+ALB,3,C4u (40),used,C4,40,soft,United States Grand Prix,2019
+VER,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+GAS,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+SAI,0,C3n,new,C3,0,soft,Brazilian Grand Prix,2019
+RAI,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+GIO,0,C3n,new,C3,0,soft,Brazilian Grand Prix,2019
+RIC,0,C2n,new,C2,0,medium,Brazilian Grand Prix,2019
+HAM,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+NOR,0,C3n,new,C3,0,soft,Brazilian Grand Prix,2019
+PER,0,C3n,new,C3,0,soft,Brazilian Grand Prix,2019
+KVY,0,C2n,new,C2,0,medium,Brazilian Grand Prix,2019
+MAG,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+RUS,0,C2n,new,C2,0,medium,Brazilian Grand Prix,2019
+GRO,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+ALB,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+HUL,0,C2n,new,C2,0,medium,Brazilian Grand Prix,2019
+KUB,0,C2n,new,C2,0,medium,Brazilian Grand Prix,2019
+VET,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+LEC,0,C2u,used,C2,0,medium,Brazilian Grand Prix,2019
+STR,0,C3n,new,C3,0,soft,Brazilian Grand Prix,2019
+BOT,0,C3u,used,C3,0,soft,Brazilian Grand Prix,2019
+VER,1,C3n (21),new,C3,21,soft,Brazilian Grand Prix,2019
+GAS,1,C2n (22),new,C2,22,medium,Brazilian Grand Prix,2019
+SAI,1,C2n (29),new,C2,29,medium,Brazilian Grand Prix,2019
+RAI,1,C2n (21),new,C2,21,medium,Brazilian Grand Prix,2019
+GIO,1,C2n (20),new,C2,20,medium,Brazilian Grand Prix,2019
+RIC,1,C3n (8),new,C3,8,soft,Brazilian Grand Prix,2019
+HAM,1,C3u (20),used,C3,20,soft,Brazilian Grand Prix,2019
+NOR,1,C1n (27),new,C1,27,hard,Brazilian Grand Prix,2019
+PER,1,C2n (17),new,C2,17,medium,Brazilian Grand Prix,2019
+KVY,1,C3n (23),new,C3,23,soft,Brazilian Grand Prix,2019
+MAG,1,C2n (27),new,C2,27,medium,Brazilian Grand Prix,2019
+RUS,1,C2n (23),new,C2,23,medium,Brazilian Grand Prix,2019
+GRO,1,C2n (26),new,C2,26,medium,Brazilian Grand Prix,2019
+ALB,1,C2n (24),new,C2,24,medium,Brazilian Grand Prix,2019
+HUL,1,C1n (27),new,C1,27,hard,Brazilian Grand Prix,2019
+KUB,1,C2n (20),new,C2,20,medium,Brazilian Grand Prix,2019
+VET,1,C2n (25),new,C2,25,medium,Brazilian Grand Prix,2019
+LEC,1,C1n (29),new,C1,29,hard,Brazilian Grand Prix,2019
+STR,1,C2n (28),new,C2,28,medium,Brazilian Grand Prix,2019
+BOT,1,C1n (26),new,C1,26,hard,Brazilian Grand Prix,2019
+VER,2,C2n (44),new,C2,44,medium,Brazilian Grand Prix,2019
+GAS,2,C3u (47),used,C3,47,soft,Brazilian Grand Prix,2019
+RAI,2,C3u (47),used,C3,47,soft,Brazilian Grand Prix,2019
+GIO,2,C3u (46),used,C3,46,soft,Brazilian Grand Prix,2019
+RIC,2,C3u (40),used,C3,40,soft,Brazilian Grand Prix,2019
+HAM,2,C2n (43),new,C2,43,medium,Brazilian Grand Prix,2019
+NOR,2,C2n (53),new,C2,53,medium,Brazilian Grand Prix,2019
+PER,2,C3u (45),used,C3,45,soft,Brazilian Grand Prix,2019
+KVY,2,C3n (46),new,C3,46,soft,Brazilian Grand Prix,2019
+MAG,2,C3u (53),used,C3,53,soft,Brazilian Grand Prix,2019
+RUS,2,C3n (54),new,C3,54,soft,Brazilian Grand Prix,2019
+GRO,2,C3u (65),used,C3,65,soft,Brazilian Grand Prix,2019
+ALB,2,C3u (50),used,C3,50,soft,Brazilian Grand Prix,2019
+HUL,2,C3n (44),new,C3,44,soft,Brazilian Grand Prix,2019
+KUB,2,C1n (36),new,C1,36,hard,Brazilian Grand Prix,2019
+VET,2,C3u (49),used,C3,49,soft,Brazilian Grand Prix,2019
+LEC,2,C3n (54),new,C3,54,soft,Brazilian Grand Prix,2019
+STR,2,C3n (53),new,C3,53,soft,Brazilian Grand Prix,2019
+BOT,2,C2n (41),new,C2,41,medium,Brazilian Grand Prix,2019
+VER,3,C3u (54),used,C3,54,soft,Brazilian Grand Prix,2019
+HAM,3,C3u (66),used,C3,66,soft,Brazilian Grand Prix,2019
+RUS,3,C3u (66),used,C3,66,soft,Brazilian Grand Prix,2019
+HUL,3,C3u (53),used,C3,53,soft,Brazilian Grand Prix,2019
+KUB,3,C3n (53),new,C3,53,soft,Brazilian Grand Prix,2019
+KUB,4,C3u (66),used,C3,66,soft,Brazilian Grand Prix,2019
+HAM,0,C4u,used,C4,0,medium,Abu Dhabi Grand Prix,2019
+VER,0,C4u,used,C4,0,medium,Abu Dhabi Grand Prix,2019
+LEC,0,C4u,used,C4,0,medium,Abu Dhabi Grand Prix,2019
+BOT,0,C4u,used,C4,0,medium,Abu Dhabi Grand Prix,2019
+VET,0,C5u,used,C5,0,soft,Abu Dhabi Grand Prix,2019
+ALB,0,C4u,used,C4,0,medium,Abu Dhabi Grand Prix,2019
+PER,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+NOR,0,C5u,used,C5,0,soft,Abu Dhabi Grand Prix,2019
+KVY,0,C3n,new,C3,0,hard,Abu Dhabi Grand Prix,2019
+SAI,0,C5u,used,C5,0,soft,Abu Dhabi Grand Prix,2019
+RIC,0,C5u,used,C5,0,soft,Abu Dhabi Grand Prix,2019
+HUL,0,C5u,used,C5,0,soft,Abu Dhabi Grand Prix,2019
+RAI,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+MAG,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+GRO,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+GIO,0,C5n,new,C5,0,soft,Abu Dhabi Grand Prix,2019
+RUS,0,C3n,new,C3,0,hard,Abu Dhabi Grand Prix,2019
+GAS,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+KUB,0,C3n,new,C3,0,hard,Abu Dhabi Grand Prix,2019
+STR,0,C4n,new,C4,0,medium,Abu Dhabi Grand Prix,2019
+HAM,1,C3n (26),new,C3,26,hard,Abu Dhabi Grand Prix,2019
+VER,1,C3n (25),new,C3,25,hard,Abu Dhabi Grand Prix,2019
+LEC,1,C3n (12),new,C3,12,hard,Abu Dhabi Grand Prix,2019
+BOT,1,C3n (29),new,C3,29,hard,Abu Dhabi Grand Prix,2019
+VET,1,C3n (12),new,C3,12,hard,Abu Dhabi Grand Prix,2019
+ALB,1,C3n (13),new,C3,13,hard,Abu Dhabi Grand Prix,2019
+PER,1,C3n (37),new,C3,37,hard,Abu Dhabi Grand Prix,2019
+NOR,1,C3n (8),new,C3,8,hard,Abu Dhabi Grand Prix,2019
+KVY,1,C4n (40),new,C4,40,medium,Abu Dhabi Grand Prix,2019
+SAI,1,C3n (12),new,C3,12,hard,Abu Dhabi Grand Prix,2019
+RIC,1,C3n (11),new,C3,11,hard,Abu Dhabi Grand Prix,2019
+HUL,1,C4n (18),new,C4,18,medium,Abu Dhabi Grand Prix,2019
+RAI,1,C3n (22),new,C3,22,hard,Abu Dhabi Grand Prix,2019
+MAG,1,C3u (20),used,C3,20,hard,Abu Dhabi Grand Prix,2019
+GRO,1,C3u (18),used,C3,18,hard,Abu Dhabi Grand Prix,2019
+GIO,1,C3n (8),new,C3,8,hard,Abu Dhabi Grand Prix,2019
+RUS,1,C4n (32),new,C4,32,medium,Abu Dhabi Grand Prix,2019
+GAS,1,C3n (1),new,C3,1,hard,Abu Dhabi Grand Prix,2019
+KUB,1,C4n (24),new,C4,24,medium,Abu Dhabi Grand Prix,2019
+STR,1,C3n (5),new,C3,5,hard,Abu Dhabi Grand Prix,2019
+LEC,2,C5n (38),new,C5,38,soft,Abu Dhabi Grand Prix,2019
+VET,2,C4n (38),new,C4,38,medium,Abu Dhabi Grand Prix,2019
+SAI,2,C4n (41),new,C4,41,medium,Abu Dhabi Grand Prix,2019
+RIC,2,C5u (42),used,C5,42,soft,Abu Dhabi Grand Prix,2019
+GIO,2,C4n (26),new,C4,26,medium,Abu Dhabi Grand Prix,2019
+STR,2,C5n (23),new,C5,23,soft,Abu Dhabi Grand Prix,2019
