@@ -6,6 +6,7 @@ import seaborn as sns
 import data_tools
 import style
 
+
 # plot style settings
 sns.set_style("whitegrid")
 plt.rc("font", size=14)  # controls default text sizes
@@ -22,7 +23,8 @@ plt.rcParams["font.family"] = "sans-serif"
 
 
 def delta_chart(
-    ergast, race, tgt_driver, driver_ids=None, driver_refs=None, driver_codes=None
+    ergast, race, tgt_driver, driver_ids=None, driver_refs=None, driver_codes=None,
+    figsize=(12, 7)
 ):
     raceId = data_tools.get_race_id(ergast, race)
 
@@ -35,7 +37,7 @@ def delta_chart(
         driver_refs=driver_refs,
     )
 
-    fig, ax = plt.subplots(figsize=(12, 7))
+    fig, ax = plt.subplots(figsize=figsize)
     sns.lineplot(
         data=delta_table,
         x="lap",
@@ -63,3 +65,17 @@ def delta_chart(
         frameon=False,
     )
     return fig, ax
+
+
+def tire_overlay(ax):
+    sns.lineplot(
+        data=delta_table,
+        x="lap",
+        y="delta_seconds",
+        hue="driverRef",
+        palette=data_tools.get_driver_color_dict(ergast, raceId, key="ref"),
+        style="driverRef",
+        dashes=style.dashes_2020,
+        ax=ax,
+        ls=100
+    )
