@@ -348,3 +348,58 @@ MAG,1,C2n (10),new,C2,10,hard,Belgian Grand Prix,2020
 LEC,2,C3n (24),new,C3,24,medium,Belgian Grand Prix,2020
 LAT,2,C3n (30),new,C3,30,medium,Belgian Grand Prix,2020
 MAG,2,C4n (35),new,C4,35,soft,Belgian Grand Prix,2020
+GAS,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+SAI,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+STR,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+NOR,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+BOT,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+RIC,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+HAM,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+OCO,0,C4n,new,C4,0,soft,Italian Grand Prix,2020
+KVY,0,C2n,new,C2,0,hard,Italian Grand Prix,2020
+PER,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+LAT,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+GRO,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+RAI,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+RUS,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+ALB,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+GIO,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+VER,0,C4u,used,C4,0,soft,Italian Grand Prix,2020
+LEC,0,C4n,new,C4,0,soft,Italian Grand Prix,2020
+MAG,0,C3n,new,C3,0,medium,Italian Grand Prix,2020
+VET,0,C2n,new,C2,0,hard,Italian Grand Prix,2020
+GAS,1,C2n (19),new,C2,19,hard,Italian Grand Prix,2020
+SAI,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+STR,1,C3n (26),new,C3,26,medium,Italian Grand Prix,2020
+NOR,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+BOT,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+RIC,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+HAM,1,C3n (20),new,C3,20,medium,Italian Grand Prix,2020
+OCO,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+KVY,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+PER,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+LAT,1,C2n (16),new,C2,16,hard,Italian Grand Prix,2020
+GRO,1,C2n (22),new,C2,22,hard,Italian Grand Prix,2020
+RAI,1,C2n (18),new,C2,18,hard,Italian Grand Prix,2020
+RUS,1,C2n (22),new,C2,22,hard,Italian Grand Prix,2020
+ALB,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+GIO,1,C2n (20),new,C2,20,hard,Italian Grand Prix,2020
+VER,1,C3n (22),new,C3,22,medium,Italian Grand Prix,2020
+LEC,1,C2n (17),new,C2,17,hard,Italian Grand Prix,2020
+MAG,1,C2n (1),new,C2,1,hard,Italian Grand Prix,2020
+GAS,2,C3n (26),new,C3,26,medium,Italian Grand Prix,2020
+SAI,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+NOR,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+BOT,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+RIC,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+HAM,2,C2n (26),new,C2,26,hard,Italian Grand Prix,2020
+OCO,2,C4u (26),used,C4,26,soft,Italian Grand Prix,2020
+KVY,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+PER,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+LAT,2,C3n (26),new,C3,26,medium,Italian Grand Prix,2020
+GRO,2,C2u (26),used,C2,26,hard,Italian Grand Prix,2020
+RAI,2,C4n (26),new,C4,26,soft,Italian Grand Prix,2020
+RUS,2,C3n (26),new,C3,26,medium,Italian Grand Prix,2020
+ALB,2,C2n (26),new,C2,26,hard,Italian Grand Prix,2020
+GIO,2,C4n (26),new,C4,26,soft,Italian Grand Prix,2020
+VER,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
