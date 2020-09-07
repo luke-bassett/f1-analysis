@@ -16,14 +16,12 @@ plt.rc("xtick", labelsize=14)  # fontsize of the tick labels
 plt.rc("ytick", labelsize=14)  # fontsize of the tick labels
 plt.rc("legend", fontsize=14)  # legend fontsize
 plt.rc("figure", titlesize=14)  # fontsize of the figure title
-plt.rcParams["font.monospace"] = "consolas"
 plt.rcParams["font.sans-serif"] = ["arial"]
-plt.rcParams["font.serif"] = "times new roman"
 plt.rcParams["font.family"] = "sans-serif"
 
 
 def delta_chart(
-    ergast, race, tgt_driver, driver_ids=None, driver_refs=None, driver_codes=None,
+    ergast, race, tgt_driver, tyre_data=None, driver_ids=None, driver_refs=None, driver_codes=None,
     figsize=(12, 7)
 ):
     raceId = data_tools.get_race_id(ergast, race)
@@ -36,6 +34,10 @@ def delta_chart(
         driver_codes=driver_codes,
         driver_refs=driver_refs,
     )
+
+    if tyre_data:
+
+
 
     fig, ax = plt.subplots(figsize=figsize)
     sns.lineplot(

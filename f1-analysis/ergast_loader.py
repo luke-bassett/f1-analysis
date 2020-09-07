@@ -10,7 +10,7 @@ class ErgastLoader:
         """Loads ergast data to dataframes.
 
         path (str):
-            Location in which data is stored. Must be stoered as csvs.
+            Location in which data is stored. Must be stored as csvs.
 
         tables (list):
             Subset of tables to load. If None all tables are loaded.
