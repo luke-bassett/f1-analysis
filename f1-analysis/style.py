@@ -42,3 +42,10 @@ dashes_2020 = {
     # other
     "grosjean": solid,
 }
+
+# taken from pirelli press release
+tyre_colors = {
+    'soft':'#ed1c24',
+    'medium':'#ffd400',
+    'hard':'#000000',
+}

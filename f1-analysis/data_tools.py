@@ -1,7 +1,7 @@
 """Fuctions for transforming and referencing"""
 
 import style
-
+import pandas as pd
 
 def load_race_laps(ergast, raceId):
     """return dataframe from laps_times table for a race"""
@@ -169,3 +169,13 @@ def get_race_id(ergast, race):
         return races.loc[
             (races["year"] == race[0]) & (races["round"] == race[1]), "raceId"
         ].array[0]
+
+
+def prep_tyre_data(ergast, td):
+    """Prepare raw tyre data for use in delta table"""
+    td = pd.merge(left=td, right=ergast.data['races'][['name', 'raceId']], how='left', left_on='race', right_on='name')
+    td = pd.merge(left=td, right=ergast.data['drivers'][['code', 'driverId']], how='left', left_on='driver', right_on='code')
+
+    td.loc[td['lap'] == 0, 'lap'] = 1
+    td = td.drop_duplicates()
+    return td
