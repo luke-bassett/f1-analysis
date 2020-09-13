@@ -3,6 +3,7 @@
 import style
 import pandas as pd
 
+
 def load_race_laps(ergast, raceId):
     """return dataframe from laps_times table for a race"""
     laps = ergast.data["lap_times"].copy()
@@ -173,10 +174,22 @@ def get_race_id(ergast, race):
 
 def prep_tyre_data(ergast, td):
     """Prepare raw tyre data for use in delta table"""
-    td = pd.merge(left=td, right=ergast.data['races'][['name', 'raceId', 'year']], how='left', left_on=['race', 'year'], right_on=['name', 'year'])
-    td = pd.merge(left=td, right=ergast.data['drivers'][['code', 'driverId']], how='left', left_on='driver', right_on='code')
+    td = pd.merge(
+        left=td,
+        right=ergast.data["races"][["name", "raceId", "year"]],
+        how="left",
+        left_on=["race", "year"],
+        right_on=["name", "year"],
+    )
+    td = pd.merge(
+        left=td,
+        right=ergast.data["drivers"][["code", "driverId"]],
+        how="left",
+        left_on="driver",
+        right_on="code",
+    )
 
-    td.loc[td['lap'] == 0, 'lap'] = 1
+    td.loc[td["lap"] == 0, "lap"] = 1
     td = td.drop_duplicates()
     return td
 
@@ -192,34 +205,40 @@ def add_pit_and_tyre_data(ergast, df, td):
 
     Returns df with added columns stop, duration, compound, and race_assignment
     """
-    pits = ergast.data['pit_stops'].copy()
+    pits = ergast.data["pit_stops"].copy()
 
     df = df.merge(
-        right=pits[['raceId', 'driverId', 'lap', 'duration']],
-        how='left',
-        on=['driverId', 'raceId', 'lap']
+        right=pits[["raceId", "driverId", "lap", "duration"]],
+        how="left",
+        on=["driverId", "raceId", "lap"],
     )
 
-    df = df.merge(
-        right=td,
-        how='left',
-        on=['driverId', 'raceId', 'lap']
-    )
+    df = df.merge(right=td, how="left", on=["driverId", "raceId", "lap"])
 
-    df = df[['raceId', 'driverId', 'lap', 'position', 'time', 'milliseconds',
-       'total_milliseconds', 'driverRef', 'delta', 'delta_seconds', 'duration',
-       'stop', 'condition', 'compound', 'race_assignment']]
+    df = df[
+        [
+            "raceId",
+            "driverId",
+            "lap",
+            "position",
+            "time",
+            "milliseconds",
+            "total_milliseconds",
+            "driverRef",
+            "delta",
+            "delta_seconds",
+            "duration",
+            "stop",
+            "condition",
+            "compound",
+            "race_assignment",
+        ]
+    ]
 
-    df['stint'] = df['stop'] + 1
-    df['compound'].fillna(method='ffill', inplace=True)
-    df['condition'].fillna(method='ffill', inplace=True)
-    df['race_assignment'].fillna(method='ffill', inplace=True)
-    df['stint'].fillna(method='ffill', inplace=True)
+    df["stint"] = df["stop"] + 1
+    df["compound"].fillna(method="ffill", inplace=True)
+    df["condition"].fillna(method="ffill", inplace=True)
+    df["race_assignment"].fillna(method="ffill", inplace=True)
+    df["stint"].fillna(method="ffill", inplace=True)
 
     return df
-
-
-
-
-
-

@@ -45,7 +45,7 @@ dashes_2020 = {
 
 # taken from pirelli press release
 tyre_colors = {
-    'soft':'#ed1c24',
-    'medium':'#ffd400',
-    'hard':'#000000',
+    "soft": "#ed1c24",
+    "medium": "#ffd400",
+    "hard": "#000000",
 }

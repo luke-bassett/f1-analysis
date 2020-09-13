@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 
-def load_pirelli_tyre_data(path='data/pirelli'):
+def load_pirelli_tyre_data(path="data/pirelli"):
     """Return df containing all data in data/pirelli"""
     dfs = []
     for f in os.listdir(path):
