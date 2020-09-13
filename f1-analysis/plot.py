@@ -33,6 +33,8 @@ def delta_chart(
 ):
     fig, ax = plt.subplots(figsize=figsize)
     raceId = data_tools.get_race_id(ergast, race)
+    circuitRef = data_tools.get_circuit(ergast, raceId)
+    year = data_tools.get_year(ergast, raceId)
 
     delta_table = data_tools.make_delta_table(
         ergast,
@@ -76,7 +78,8 @@ def delta_chart(
         ax=ax,
     )
 
-    ax.set(xlabel="lap", ylabel="seconds", title="delta from " + tgt_driver)
+    title = "{} {} - delta from {}".format(circuitRef, year, tgt_driver)
+    ax.set(xlabel="lap", ylabel="seconds", title=title)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["bottom"].set_visible(False)

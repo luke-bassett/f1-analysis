@@ -172,6 +172,18 @@ def get_race_id(ergast, race):
         ].array[0]
 
 
+def get_circuit(ergast, raceId):
+    races = ergast.data["races"].copy()
+    circuitId = races.loc[races["raceId"] == raceId, "circuitId"].values[0]
+    circuits = ergast.data["circuits"].copy()
+    return circuits.loc[circuits["circuitId"] == circuitId, "circuitRef"].values[0]
+
+
+def get_year(ergast, raceId):
+    races = ergast.data["races"].copy()
+    return races.loc[races["raceId"] == raceId, "year"].values[0]
+
+
 def prep_tyre_data(ergast, td):
     """Prepare raw tyre data for use in delta table"""
     td = pd.merge(
