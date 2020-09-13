@@ -37,24 +37,16 @@ def delta_chart(
         driver_refs=driver_refs,
     )
 
-
-
-
     if show_tyres:
-        td = pirelli_loader.load_pirelli_tyre_data()
-        td = data_tools.prep_tyre_data(ergast, td)
-        td = td[td['raceId']==raceId]
-
-        delta_table = pd.merge(left=delta_table, right=td[['lap', 'race_assignment', 'raceId', 'driverId']], how='left', on=['lap', 'raceId', 'driverId'])
-        delta_table = delta_table.sort_values(['driverId', 'lap'])
-        delta_table['race_assignment'] = delta_table['race_assignment'].fillna(method='ffill')
-
-        display(delta_table[])
+        tyre_data = pirelli_loader.load_pirelli_tyre_data()
+        td = data_tools.prep_tyre_data(ergast, tyre_data)
+        delta_table = data_tools.add_pit_and_tyre_data(ergast, delta_table, td)
 
         for driver in delta_table['driverRef'].unique():
-            for comp in delta_table.loc[delta_table['driverRef']==driver, 'race_assignment'].unique():
-                tmp = delta_table[(delta_table['driverRef']==driver) & (delta_table['race_assignment']== comp)].copy()
-                plt.plot(tmp['lap'], tmp['delta_seconds'], alpha=1, lw=4, color=style.tyre_colors[comp])
+            for stint in delta_table.loc[delta_table['driverRef']==driver, 'stint'].unique():
+                tmp = delta_table[(delta_table['driverRef'] == driver) & (delta_table['stint'] == stint)].copy()
+                comp = tmp['race_assignment'].unique()[0]
+                plt.scatter(tmp['lap'].to_list()[0], tmp['delta_seconds'].to_list()[0], alpha=.7, s=70, color=style.tyre_colors[comp])
 
     sns.lineplot(
         data=delta_table,
@@ -77,7 +69,7 @@ def delta_chart(
     handles, labels = ax.get_legend_handles_labels()
     ax.legend(
         handles=handles[1:],  # remove seaborn default legend title
-        labels=labels[1:],  # remove seaborn default legend title
+        labels=labels[1:],    # remove seaborn default legend title
         loc="center left",
         bbox_to_anchor=(1, 0.5),
         frameon=False,
