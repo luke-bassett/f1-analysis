@@ -403,3 +403,75 @@ RUS,2,C3n (26),new,C3,26,medium,Italian Grand Prix,2020
 ALB,2,C2n (26),new,C2,26,hard,Italian Grand Prix,2020
 GIO,2,C4n (26),new,C4,26,soft,Italian Grand Prix,2020
 VER,2,C3u (26),used,C3,26,medium,Italian Grand Prix,2020
+HAM,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+BOT,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+ALB,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+RIC,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+PER,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+NOR,0,C3n,new,C3,0,soft,Tuscan Grand Prix,2020
+KVY,0,C2n,new,C2,0,medium,Tuscan Grand Prix,2020
+LEC,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+RAI,0,C2n,new,C2,0,medium,Tuscan Grand Prix,2020
+VET,0,C3n,new,C3,0,soft,Tuscan Grand Prix,2020
+RUS,0,C2n,new,C2,0,medium,Tuscan Grand Prix,2020
+GRO,0,C2n,new,C2,0,medium,Tuscan Grand Prix,2020
+STR,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+OCO,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+LAT,0,C2n,new,C2,0,medium,Tuscan Grand Prix,2020
+MAG,0,C3n,new,C3,0,soft,Tuscan Grand Prix,2020
+GIO,0,C3n,new,C3,0,soft,Tuscan Grand Prix,2020
+SAI,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+VER,0,C3u,used,C3,0,soft,Tuscan Grand Prix,2020
+GAS,0,C3n,new,C3,0,soft,Tuscan Grand Prix,2020
+HAM,1,C2n (8),new,C2,8,medium,Tuscan Grand Prix,2020
+BOT,1,C2n (8),new,C2,8,medium,Tuscan Grand Prix,2020
+ALB,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+RIC,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+PER,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+NOR,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+KVY,1,C3n (8),new,C3,8,soft,Tuscan Grand Prix,2020
+LEC,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+RAI,1,C2u (1),used,C2,1,medium,Tuscan Grand Prix,2020
+VET,1,C2n (1),new,C2,1,medium,Tuscan Grand Prix,2020
+RUS,1,C2n (8),new,C2,8,medium,Tuscan Grand Prix,2020
+GRO,1,C3n (8),new,C3,8,soft,Tuscan Grand Prix,2020
+STR,1,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+HAM,2,C1n (32),new,C1,32,hard,Tuscan Grand Prix,2020
+BOT,2,C1n (31),new,C1,31,hard,Tuscan Grand Prix,2020
+ALB,2,C2n (32),new,C2,32,medium,Tuscan Grand Prix,2020
+RIC,2,C2n (27),new,C2,27,medium,Tuscan Grand Prix,2020
+PER,2,C2n (28),new,C2,28,medium,Tuscan Grand Prix,2020
+NOR,2,C2n (29),new,C2,29,medium,Tuscan Grand Prix,2020
+KVY,2,C2u (29),used,C2,29,medium,Tuscan Grand Prix,2020
+LEC,2,C1n (21),new,C1,21,hard,Tuscan Grand Prix,2020
+RAI,2,C2u (8),used,C2,8,medium,Tuscan Grand Prix,2020
+VET,2,C3u (8),used,C3,8,soft,Tuscan Grand Prix,2020
+RUS,2,C1n (29),new,C1,29,hard,Tuscan Grand Prix,2020
+GRO,2,C1n (28),new,C1,28,hard,Tuscan Grand Prix,2020
+STR,2,C2n (30),new,C2,30,medium,Tuscan Grand Prix,2020
+HAM,3,C2n (44),new,C2,44,medium,Tuscan Grand Prix,2020
+BOT,3,C2n (43),new,C2,43,medium,Tuscan Grand Prix,2020
+ALB,3,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+RIC,3,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+PER,3,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+NOR,3,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+KVY,3,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+LEC,3,C2n (37),new,C2,37,medium,Tuscan Grand Prix,2020
+RAI,3,C1n (27),new,C1,27,hard,Tuscan Grand Prix,2020
+VET,3,C1n (28),new,C1,28,hard,Tuscan Grand Prix,2020
+RUS,3,C3n (43),new,C3,43,soft,Tuscan Grand Prix,2020
+GRO,3,C3u (42),used,C3,42,soft,Tuscan Grand Prix,2020
+HAM,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+BOT,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+ALB,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+RIC,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+PER,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+NOR,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+KVY,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+LEC,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+RAI,4,C3n (42),new,C3,42,soft,Tuscan Grand Prix,2020
+VET,4,C3u (43),used,C3,43,soft,Tuscan Grand Prix,2020
+RUS,4,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
+GRO,4,C3u (44),used,C3,44,soft,Tuscan Grand Prix,2020
+RAI,5,C3u (44),used,C3,44,soft,Tuscan Grand Prix,2020
+VET,5,C3u (45),used,C3,45,soft,Tuscan Grand Prix,2020
