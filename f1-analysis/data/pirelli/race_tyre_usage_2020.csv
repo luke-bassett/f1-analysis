@@ -85,26 +85,26 @@ LEC,1,C2n (1),new,C2,1,hard,Styrian Grand Prix,2020
 VER,2,C4n (68),new,C4,68,soft,Styrian Grand Prix,2020
 SAI,2,C4n (66),new,C4,66,soft,Styrian Grand Prix,2020
 GAS,2,C4n (49),new,C4,49,soft,Styrian Grand Prix,2020
-HAM,0,In,new,I,0,,Hungarian Grand Prix,2020
-VER,0,In,new,I,0,,Hungarian Grand Prix,2020
-BOT,0,In,new,I,0,,Hungarian Grand Prix,2020
-STR,0,In,new,I,0,,Hungarian Grand Prix,2020
-ALB,0,In,new,I,0,,Hungarian Grand Prix,2020
-VET,0,In,new,I,0,,Hungarian Grand Prix,2020
-PER,0,In,new,I,0,,Hungarian Grand Prix,2020
-RIC,0,In,new,I,0,,Hungarian Grand Prix,2020
+HAM,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+VER,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+BOT,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+STR,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+ALB,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+VET,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+PER,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+RIC,0,In,new,I,0,nan,Hungarian Grand Prix,2020
 MAG,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2020
-SAI,0,In,new,I,0,,Hungarian Grand Prix,2020
-LEC,0,In,new,I,0,,Hungarian Grand Prix,2020
-KVY,0,In,new,I,0,,Hungarian Grand Prix,2020
-NOR,0,In,new,I,0,,Hungarian Grand Prix,2020
-OCO,0,In,new,I,0,,Hungarian Grand Prix,2020
+SAI,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+LEC,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+KVY,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+NOR,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+OCO,0,In,new,I,0,nan,Hungarian Grand Prix,2020
 GRO,0,C3n,new,C3,0,medium,Hungarian Grand Prix,2020
-RAI,0,In,new,I,0,,Hungarian Grand Prix,2020
-GIO,0,In,new,I,0,,Hungarian Grand Prix,2020
-RUS,0,In,new,I,0,,Hungarian Grand Prix,2020
-LAT,0,In,new,I,0,,Hungarian Grand Prix,2020
-GAS,0,In,new,I,0,,Hungarian Grand Prix,2020
+RAI,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+GIO,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+RUS,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+LAT,0,In,new,I,0,nan,Hungarian Grand Prix,2020
+GAS,0,In,new,I,0,nan,Hungarian Grand Prix,2020
 HAM,1,C3n (3),new,C3,3,medium,Hungarian Grand Prix,2020
 VER,1,C3n (4),new,C3,4,medium,Hungarian Grand Prix,2020
 BOT,1,C3n (2),new,C3,2,medium,Hungarian Grand Prix,2020

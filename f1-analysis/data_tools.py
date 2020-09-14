@@ -45,8 +45,8 @@ def make_delta_table(
         tgt_driver = get_driverref_to_driverid_dict(ergast)[tgt_driver]
 
     laps = load_race_laps(ergast, raceId)
-
     laps = calc_total_milliseconds(laps)
+
 
     if driver_ids:
         laps = laps[laps["driverId"].isin(driver_ids)]
